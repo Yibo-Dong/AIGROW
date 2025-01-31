@@ -3,7 +3,7 @@
 The artifact for `AIGROW`, a generation tool for bit-level hardware model checking benchmarks.
 The platform is Ubuntu20.04 here. It shall also work similarly on other platforms.
 
-Since the limitation of package size, we cannot include all the benchmarks generated here -- we put them on the GitHub repository: https://github.com/Anonymous0U0/AIGROW.
+We do not include all the benchmarks generated here -- we put them on the GitHub repository: https://github.com/Anonymous0U0/AIGROW.
 
 [TOC]
 
