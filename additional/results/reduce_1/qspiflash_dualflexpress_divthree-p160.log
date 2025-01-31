@@ -1,0 +1,19 @@
+{
+"Result":	"safe",
+"TransSolver called":	292723,
+"TransSolver takes":	172.471,
+"SAT Count":	8198,
+"SAT takes":	9.619,
+"UNSAT Count":	27359,
+"UNSAT takes":	16.013,
+"Proof at frame":152,
+"LiftSolver takes":	59.811,
+"InvSolver takes":	1388.311,
+"StartSolver takes":	1.453,
+"Locating Level takes":	187.170,
+"Updating UC takes":	164.954,
+"Propagation takes":	673.336,
+"Initialization takes":	0.013,
+"Innards takes":	0.000,
+"Total Time spent":	2640.653
+}

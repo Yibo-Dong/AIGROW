@@ -1,0 +1,6 @@
+seaborn
+matplotlib
+numpy
+pygraphviz
+networkx
+gmpy2

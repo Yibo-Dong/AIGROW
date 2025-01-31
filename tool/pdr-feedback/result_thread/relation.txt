@@ -1,0 +1,302 @@
+index:1
+produce a new aiger:gen1.aag
+index:2
+produce a new aiger:gen2.aag
+index:3
+index:3
+index:3
+index:3
+index:3
+produce a new aiger:gen3.aag
+index:4
+index:4
+index:4
+index:4
+index:4
+produce a new aiger:gen4.aag
+index:5
+index:5
+produce a new aiger:gen5.aag
+index:6
+index:6
+produce a new aiger:gen6.aag
+index:7
+produce a new aiger:gen7.aag
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+index:8
+produce a new aiger:gen8.aag
+index:9
+index:9
+produce a new aiger:gen9.aag
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+index:10
+regenerate a new aiger:gen10.aag based on gen8.aag
+index:11
+produce a new aiger:gen11.aag
+index:12
+index:12
+index:12
+index:12
+index:12
+index:12
+regenerate a new aiger:gen12.aag based on gen9.aag
+index:13
+produce a new aiger:gen13.aag
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+index:14
+produce a new aiger:gen14.aag
+index:15
+regenerate a new aiger:gen15.aag based on gen11.aag
+index:16
+index:16
+index:16
+regenerate a new aiger:gen16.aag based on gen4.aag
+index:17
+index:17
+index:17
+index:17
+index:17
+index:17
+regenerate a new aiger:gen17.aag based on gen1.aag
+index:18
+index:18
+index:18
+index:18
+produce a new aiger:gen18.aag
+index:19
+index:19
+index:19
+regenerate a new aiger:gen19.aag based on gen9.aag
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+index:20
+produce a new aiger:gen20.aag
+index:21
+index:21
+index:21
+index:21
+index:21
+index:21
+index:21
+index:21
+index:21
+index:21
+regenerate a new aiger:gen21.aag based on gen18.aag
+index:22
+index:22
+index:22
+index:22
+index:22
+index:22
+index:22
+index:22
+index:22
+index:22
+index:22
+index:22
+produce a new aiger:gen22.aag
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+index:23
+regenerate a new aiger:gen23.aag based on gen11.aag
+index:24
+index:24
+index:24
+index:24
+index:24
+index:24
+index:24
+index:24
+index:24
+index:24
+index:24
+regenerate a new aiger:gen24.aag based on gen18.aag
+index:25
+index:25
+index:25
+regenerate a new aiger:gen25.aag based on gen13.aag
+index:26
+index:26
+index:26
+regenerate a new aiger:gen26.aag based on gen5.aag
+index:27
+index:27
+index:27
+index:27
+index:27
+index:27
+index:27
+index:27
+index:27
+index:27
+regenerate a new aiger:gen27.aag based on gen9.aag
+index:28
+produce a new aiger:gen28.aag
+index:29
+index:29
+index:29
+regenerate a new aiger:gen29.aag based on gen18.aag
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+index:30
+regenerate a new aiger:gen30.aag based on gen28.aag
+index:31
+index:31
+index:31
+index:31
+produce a new aiger:gen31.aag
+index:32
+index:32
+index:32
+index:32
+index:32
+index:32
+index:32
+index:32
+regenerate a new aiger:gen32.aag based on gen5.aag
+index:33
+index:33
+index:33
+index:33
+index:33
+index:33
+index:33
+index:33
+index:33
+regenerate a new aiger:gen33.aag based on gen8.aag
+index:34
+index:34
+index:34
+index:34
+produce a new aiger:gen34.aag
+index:35
+index:35
+regenerate a new aiger:gen35.aag based on gen28.aag

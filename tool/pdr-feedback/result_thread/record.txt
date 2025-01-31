@@ -1,0 +1,238 @@
+gen1.aag generate temp/gen139627451721280.aag successed with 2 inputs, 0 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 0.  Time =     0.13 sec
+0
+gen_time:1.462052583694458
+gen2.aag generate temp/gen139627451721280.aag successed with 4 inputs, 5 latches, 3 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 0.  Time =     0.15 sec
+0
+gen_time:2.8107080459594727
+gen3.aag generate temp/gen139627451721280.aag successed with 2 inputs, 5 latches, 3 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 0.  Time =     0.08 sec
+0
+gen_time:4.487985849380493
+gen4.aag generate temp/gen139627451721280.aag successed with 2 inputs, 1 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 0.  Time =     0.08 sec
+0
+gen_time:6.16622519493103
+gen5.aag generate temp/gen139627451721280.aag successed with 2 inputs, 0 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 0.  Time =     0.05 sec
+0
+gen_time:6.770462989807129
+gen6.aag generate temp/gen139627365131840.aag successed with 1 inputs, 2 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627365131840" was asserted in frame 1.  Time =     0.06 sec
+0
+gen_time:7.566319227218628
+gen7.aag generate temp/gen139627373524544.aag successed with 7 inputs, 3 latches, 6 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627373524544" was asserted in frame 0.  Time =     0.05 sec
+0
+gen_time:7.608737468719482
+gen8.aag generate temp/gen139627348346432.aag successed with 3 inputs, 2 latches, 2 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627348346432" was asserted in frame 2.  Time =     0.04 sec
+0
+gen_time:13.12220811843872
+gen9.aag generate temp/gen139627451721280.aag successed with 3 inputs, 2 latches, 2 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 2.  Time =     0.04 sec
+0
+gen_time:13.166471242904663
+gen10.aag reGenerate temp/gen139627339953728.aag based on aigerfile_thread/gen8.aag successed with 3 inputs, 3 latches, 3 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 0 clauses with 0 flops (out of 3) (cex = 0, ave = -nan)
+Verification of invariant with 0 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.03 sec
+0
+gen_time:15.875559091567993
+gen11.aag generate temp/gen139627451721280.aag successed with 1 inputs, 5 latches, 2 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 3.  Time =     0.04 sec
+0
+gen_time:15.933800220489502
+gen12.aag reGenerate temp/gen139627451721280.aag based on aigerfile_thread/gen9.aag successed with 2 inputs, 5 latches, 4 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 2 clauses with 2 flops (out of 5) (cex = 0, ave = 2.00)
+Verification of invariant with 2 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:16.65883994102478
+gen13.aag generate temp/gen139627348346432.aag successed with 2 inputs, 1 latches, 3 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627348346432" was asserted in frame 0.  Time =     0.04 sec
+0
+gen_time:16.708837270736694
+gen14.aag generate temp/gen139627331561024.aag successed with 5 inputs, 8 latches, 6 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627331561024" was asserted in frame 2.  Time =     0.04 sec
+0
+gen_time:18.832839012145996
+gen15.aag reGenerate temp/gen139627451721280.aag based on aigerfile_thread/gen11.aag successed with 4 inputs, 5 latches, 6 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 4 clauses with 4 flops (out of 5) (cex = 0, ave = 1.75)
+Verification of invariant with 4 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:18.886552572250366
+gen16.aag reGenerate temp/gen139627365131840.aag based on aigerfile_thread/gen4.aag successed with 1 inputs, 6 latches, 2 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 1 clauses with 2 flops (out of 6) (cex = 0, ave = 3.00)
+Verification of invariant with 1 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:19.545997381210327
+gen17.aag reGenerate temp/gen139627348346432.aag based on aigerfile_thread/gen1.aag successed with 1 inputs, 4 latches, 1 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 0 clauses with 0 flops (out of 4) (cex = 0, ave = -nan)
+Verification of invariant with 0 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.03 sec
+0
+gen_time:19.58826518058777
+gen18.aag generate temp/gen139627356739136.aag successed with 2 inputs, 0 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627356739136" was asserted in frame 0.  Time =     0.03 sec
+0
+gen_time:20.314133405685425
+gen19.aag reGenerate temp/gen139627365131840.aag based on aigerfile_thread/gen9.aag successed with 3 inputs, 7 latches, 3 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 2 clauses with 2 flops (out of 7) (cex = 0, ave = 2.00)
+Verification of invariant with 2 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:20.365183353424072
+gen20.aag generate temp/gen139627339953728.aag successed with 1 inputs, 6 latches, 2 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627339953728" was asserted in frame 0.  Time =     0.04 sec
+0
+gen_time:22.478949308395386
+gen21.aag reGenerate temp/gen139627323168320.aag based on aigerfile_thread/gen18.aag successed with 1 inputs, 2 latches, 2 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 1 clauses with 1 flops (out of 2) (cex = 0, ave = 2.00)
+Verification of invariant with 1 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.03 sec
+0
+gen_time:23.84136390686035
+gen22.aag generate temp/gen139627356739136.aag successed with 1 inputs, 2 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627356739136" was asserted in frame 1.  Time =     0.04 sec
+0
+gen_time:24.53282904624939
+gen23.aag reGenerate temp/gen139627365131840.aag based on aigerfile_thread/gen11.aag successed with 1 inputs, 5 latches, 2 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 3 clauses with 3 flops (out of 5) (cex = 0, ave = 1.75)
+Verification of invariant with 3 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:27.452526569366455
+gen24.aag reGenerate temp/gen139627373524544.aag based on aigerfile_thread/gen18.aag successed with 1 inputs, 3 latches, 2 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627373524544" was asserted in frame 1.  Time =     0.04 sec
+0
+gen_time:28.869011402130127
+gen25.aag reGenerate temp/gen139627356739136.aag based on aigerfile_thread/gen13.aag successed with 1 inputs, 1 latches, 4 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 0 clauses with 0 flops (out of 1) (cex = 0, ave = -nan)
+Verification of invariant with 0 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:28.908478021621704
+gen26.aag reGenerate temp/gen139627331561024.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 0 latches, 1 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 0 clauses with 0 flops (out of 1) (cex = 0, ave = -nan)
+Verification of invariant with 0 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.03 sec
+0
+gen_time:28.95828652381897
+gen27.aag reGenerate temp/gen139627339953728.aag based on aigerfile_thread/gen9.aag successed with 3 inputs, 4 latches, 4 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 2 clauses with 2 flops (out of 4) (cex = 0, ave = 2.00)
+Verification of invariant with 2 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.03 sec
+0
+gen_time:30.367813110351562
+gen28.aag generate temp/gen139627331561024.aag successed with 2 inputs, 0 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627331561024" was asserted in frame 0.  Time =     0.02 sec
+0
+gen_time:30.40501594543457
+gen29.aag reGenerate temp/gen139627451721280.aag based on aigerfile_thread/gen18.aag successed with 2 inputs, 1 latches, 2 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 0 clauses with 0 flops (out of 1) (cex = 0, ave = -nan)
+Verification of invariant with 0 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.02 sec
+0
+gen_time:30.450520277023315
+gen30.aag reGenerate temp/gen139627339953728.aag based on aigerfile_thread/gen28.aag successed with 2 inputs, 4 latches, 3 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627339953728" was asserted in frame 1.  Time =     0.04 sec
+0
+gen_time:31.98844313621521
+gen31.aag generate temp/gen139627365131840.aag successed with 2 inputs, 0 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627365131840" was asserted in frame 0.  Time =     0.01 sec
+0
+gen_time:32.71627163887024
+gen32.aag reGenerate temp/gen139627323168320.aag based on aigerfile_thread/gen5.aag successed with 1 inputs, 2 latches, 1 ands.
+ABC command line: "pdr".
+
+Invariant F[1] : 2 clauses with 2 flops (out of 2) (cex = 0, ave = 1.00)
+Verification of invariant with 2 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:33.47724533081055
+gen33.aag reGenerate temp/gen139627356739136.aag based on aigerfile_thread/gen8.aag successed with 1 inputs, 3 latches, 2 ands.
+ABC command line: "pdr".
+
+Invariant F[2] : 2 clauses with 3 flops (out of 3) (cex = 0, ave = 2.00)
+Verification of invariant with 2 clauses was successful.  Time =     0.00 sec
+Property proved.  Time =     0.04 sec
+0
+gen_time:34.279362201690674
+gen34.aag generate temp/gen139627365131840.aag successed with 2 inputs, 1 latches, 1 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627365131840" was asserted in frame 1.  Time =     0.03 sec
+0
+gen_time:34.32800316810608
+gen35.aag reGenerate temp/gen139627451721280.aag based on aigerfile_thread/gen28.aag successed with 4 inputs, 4 latches, 4 ands.
+ABC command line: "pdr".
+
+Output 0 of miter "temp/gen139627451721280" was asserted in frame 1.  Time =     0.08 sec
+0
+gen_time:35.216487407684326

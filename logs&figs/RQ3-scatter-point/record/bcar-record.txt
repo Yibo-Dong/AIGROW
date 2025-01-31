@@ -1,0 +1,1600 @@
+bcar-15-70-15-gen10283.log 230.18 0
+bcar-15-70-15-gen10721.log 0.05 0
+bcar-15-70-15-gen10888.log 7.62 0
+bcar-15-70-15-gen12566.log 7200
+bcar-15-70-15-gen12752.log 0.09 0
+bcar-15-70-15-gen12800.log 0.04 0
+bcar-15-70-15-gen13036.log 7200
+bcar-15-70-15-gen13043.log 7200
+bcar-15-70-15-gen13057.log 7200
+bcar-15-70-15-gen13078.log 7200
+bcar-15-70-15-gen13133.log 7200
+bcar-15-70-15-gen13135.log 7200
+bcar-15-70-15-gen13136.log 7200
+bcar-15-70-15-gen13141.log 7200
+bcar-15-70-15-gen13169.log 7200
+bcar-15-70-15-gen13176.log 7200
+bcar-15-70-15-gen13179.log 7200
+bcar-15-70-15-gen13184.log 7200
+bcar-15-70-15-gen13193.log 7200
+bcar-15-70-15-gen13199.log 7200
+bcar-15-70-15-gen13205.log 7200
+bcar-15-70-15-gen13206.log 7200
+bcar-15-70-15-gen13210.log 7200
+bcar-15-70-15-gen13211.log 7200
+bcar-15-70-15-gen13212.log 7200
+bcar-15-70-15-gen13214.log 7200
+bcar-15-70-15-gen13215.log 7200
+bcar-15-70-15-gen13216.log 7200
+bcar-15-70-15-gen13220.log 7200
+bcar-15-70-15-gen13223.log 40.51 0
+bcar-15-70-15-gen13225.log 3.86 0
+bcar-15-70-15-gen13227.log 7200
+bcar-15-70-15-gen13229.log 7200
+bcar-15-70-15-gen13230.log 7200
+bcar-15-70-15-gen13232.log 7200
+bcar-15-70-15-gen13233.log 0.16 0
+bcar-15-70-15-gen13234.log 7200
+bcar-15-70-15-gen13241.log 0.08 0
+bcar-15-70-15-gen13245.log 114.36 0
+bcar-15-70-15-gen13247.log 7200
+bcar-15-70-15-gen13248.log 7200
+bcar-15-70-15-gen13249.log 7200
+bcar-15-70-15-gen13254.log 7200
+bcar-15-70-15-gen13257.log 847.56 0
+bcar-15-70-15-gen13258.log 7200
+bcar-15-70-15-gen13259.log 7200
+bcar-15-70-15-gen13262.log 7200
+bcar-15-70-15-gen13264.log 82.74 0
+bcar-15-70-15-gen13268.log 7200
+bcar-15-70-15-gen13269.log 7200
+bcar-15-70-15-gen13271.log 7200
+bcar-15-70-15-gen13273.log 7200
+bcar-15-70-15-gen13278.log 7200
+bcar-15-70-15-gen13280.log 7200
+bcar-15-70-15-gen13282.log 7200
+bcar-15-70-15-gen13283.log 7200
+bcar-15-70-15-gen13286.log 7200
+bcar-15-70-15-gen13289.log 7200
+bcar-15-70-15-gen13290.log 7200
+bcar-15-70-15-gen13295.log 7200
+bcar-15-70-15-gen13298.log 7200
+bcar-15-70-15-gen13299.log 7200
+bcar-15-70-15-gen13300.log 7200
+bcar-15-70-15-gen13302.log 7200
+bcar-15-70-15-gen13303.log 7200
+bcar-15-70-15-gen13305.log 0.02 0
+bcar-15-70-15-gen13306.log 41.59 0
+bcar-15-70-15-gen13309.log 7200
+bcar-15-70-15-gen13310.log 7200
+bcar-15-70-15-gen13311.log 7200
+bcar-15-70-15-gen13312.log 0.11 0
+bcar-15-70-15-gen13313.log 7200
+bcar-15-70-15-gen13315.log 7200
+bcar-15-70-15-gen13317.log 7200
+bcar-15-70-15-gen13318.log 7200
+bcar-15-70-15-gen13319.log 7200
+bcar-15-70-15-gen13320.log 7200
+bcar-15-70-15-gen13321.log 7200
+bcar-15-70-15-gen13322.log 7200
+bcar-15-70-15-gen13323.log 7200
+bcar-15-70-15-gen13324.log 7200
+bcar-15-70-15-gen13325.log 7200
+bcar-15-70-15-gen13326.log 7200
+bcar-15-70-15-gen13330.log 7200
+bcar-15-70-15-gen13331.log 7200
+bcar-15-70-15-gen13333.log 7200
+bcar-15-70-15-gen13335.log 7200
+bcar-15-70-15-gen13338.log 7200
+bcar-15-70-15-gen13340.log 0.44 0
+bcar-15-70-15-gen13341.log 0.02 0
+bcar-15-70-15-gen13342.log 0.37 0
+bcar-15-70-15-gen13344.log 3015.47 0
+bcar-15-70-15-gen13345.log 7200
+bcar-15-70-15-gen13346.log 7200
+bcar-15-70-15-gen13347.log 7200
+bcar-15-70-15-gen3142.log 0.02 0
+bcar-15-70-15-gen3399.log 0.03 0
+bcar-15-70-15-gen6979.log 0.03 0
+bcar-15-70-15-gen7580.log 0.15 0
+bcar-15-70-15-gen92.log 0 1
+bcar-20-40-40-gen1001.log 47.75 1
+bcar-20-40-40-gen1002.log 42.11 1
+bcar-20-40-40-gen1005.log 27.37 1
+bcar-20-40-40-gen1007.log 107.54 1
+bcar-20-40-40-gen1013.log 22.87 1
+bcar-20-40-40-gen1014.log 74.16 1
+bcar-20-40-40-gen1018.log 195.43 1
+bcar-20-40-40-gen1022.log 69.94 1
+bcar-20-40-40-gen1026.log 154.79 1
+bcar-20-40-40-gen1028.log 269.16 1
+bcar-20-40-40-gen1032.log 157.02 1
+bcar-20-40-40-gen1033.log 177.68 1
+bcar-20-40-40-gen1035.log 338.84 1
+bcar-20-40-40-gen1036.log 275.57 1
+bcar-20-40-40-gen1040.log 130.72 1
+bcar-20-40-40-gen1042.log 443.32 1
+bcar-20-40-40-gen1046.log 41.5 1
+bcar-20-40-40-gen1048.log 424.59 1
+bcar-20-40-40-gen1049.log 244.79 1
+bcar-20-40-40-gen1052.log 166.61 1
+bcar-20-40-40-gen1054.log 333.51 1
+bcar-20-40-40-gen1063.log 302.03 1
+bcar-20-40-40-gen1064.log 1170.41 0
+bcar-20-40-40-gen1067.log 1590.43 1
+bcar-20-40-40-gen1069.log 518.73 1
+bcar-20-40-40-gen1072.log 86.25 1
+bcar-20-40-40-gen1074.log 675.08 1
+bcar-20-40-40-gen1079.log 7200
+bcar-20-40-40-gen1081.log 296.56 1
+bcar-20-40-40-gen1082.log 7200
+bcar-20-40-40-gen1083.log 581.34 1
+bcar-20-40-40-gen1086.log 7200
+bcar-20-40-40-gen1087.log 7200
+bcar-20-40-40-gen1089.log 514.15 1
+bcar-20-40-40-gen1090.log 411.77 1
+bcar-20-40-40-gen1091.log 658.5 1
+bcar-20-40-40-gen1094.log 58.62 1
+bcar-20-40-40-gen1095.log 7200
+bcar-20-40-40-gen1096.log 7200
+bcar-20-40-40-gen1097.log 82.31 1
+bcar-20-40-40-gen1100.log 127.96 1
+bcar-20-40-40-gen1102.log 757.02 1
+bcar-20-40-40-gen1103.log 234.3 1
+bcar-20-40-40-gen1106.log 130.49 1
+bcar-20-40-40-gen1108.log 519.23 1
+bcar-20-40-40-gen1110.log 537.43 0
+bcar-20-40-40-gen1111.log 39 1
+bcar-20-40-40-gen1112.log 110.17 1
+bcar-20-40-40-gen1113.log 114.21 1
+bcar-20-40-40-gen1114.log 665.61 1
+bcar-20-40-40-gen1115.log 122.9 1
+bcar-20-40-40-gen1116.log 7200
+bcar-20-40-40-gen1117.log 7200
+bcar-20-40-40-gen1119.log 93.7 0
+bcar-20-40-40-gen1120.log 7200
+bcar-20-40-40-gen1121.log 7200
+bcar-20-40-40-gen1123.log 191.66 1
+bcar-20-40-40-gen1125.log 7200
+bcar-20-40-40-gen1126.log 225.86 1
+bcar-20-40-40-gen1127.log 7200
+bcar-20-40-40-gen1129.log 977.09 1
+bcar-20-40-40-gen1132.log 7200
+bcar-20-40-40-gen1133.log 141.17 1
+bcar-20-40-40-gen1136.log 485.77 1
+bcar-20-40-40-gen1137.log 632.47 1
+bcar-20-40-40-gen1138.log 43.67 1
+bcar-20-40-40-gen1141.log 192.83 1
+bcar-20-40-40-gen1143.log 452.88 1
+bcar-20-40-40-gen1145.log 7200
+bcar-20-40-40-gen1148.log 7200
+bcar-20-40-40-gen1149.log 39.3 1
+bcar-20-40-40-gen1150.log 510.25 1
+bcar-20-40-40-gen1152.log 199.26 0
+bcar-20-40-40-gen1153.log 7200
+bcar-20-40-40-gen1154.log 74.65 1
+bcar-20-40-40-gen1157.log 55.82 1
+bcar-20-40-40-gen1158.log 7200
+bcar-20-40-40-gen1159.log 7200
+bcar-20-40-40-gen1160.log 7200
+bcar-20-40-40-gen1163.log 7200
+bcar-20-40-40-gen1166.log 7200
+bcar-20-40-40-gen1167.log 24.53 1
+bcar-20-40-40-gen1168.log 28.04 1
+bcar-20-40-40-gen1169.log 7200
+bcar-20-40-40-gen1172.log 689.27 1
+bcar-20-40-40-gen1173.log 105.46 1
+bcar-20-40-40-gen1174.log 7200
+bcar-20-40-40-gen1175.log 7200
+bcar-20-40-40-gen1176.log 7200
+bcar-20-40-40-gen1177.log 747.56 1
+bcar-20-40-40-gen1180.log 7200
+bcar-20-40-40-gen1182.log 7200
+bcar-20-40-40-gen1184.log 7200
+bcar-20-40-40-gen982.log 30.82 1
+bcar-20-40-40-gen983.log 33.72 1
+bcar-20-40-40-gen984.log 32.52 1
+bcar-20-40-40-gen990.log 30.19 1
+bcar-20-40-40-gen991.log 52.59 1
+bcar-20-40-40-gen996.log 110.47 1
+bcar-20-40-40-gen998.log 133.38 1
+bcar-25-50-25-gen18294.log 0.02 0
+bcar-25-50-25-gen25685.log 0.02 0
+bcar-25-50-25-gen26488.log 0.02 0
+bcar-25-50-25-gen27722.log 0.22 0
+bcar-25-50-25-gen29839.log 0.03 0
+bcar-25-50-25-gen38989.log 0.12 0
+bcar-25-50-25-gen42946.log 0 1
+bcar-25-50-25-gen46560.log 0.02 0
+bcar-25-50-25-gen48753.log 0.02 0
+bcar-25-50-25-gen53297.log 0.02 0
+bcar-25-50-25-gen54380.log 0.02 0
+bcar-25-50-25-gen55924.log 0.07 0
+bcar-25-50-25-gen61359.log 1.69 0
+bcar-25-50-25-gen62391.log 0.03 0
+bcar-25-50-25-gen62848.log 0.06 1
+bcar-25-50-25-gen62934.log 0.35 0
+bcar-25-50-25-gen63146.log 0.12 1
+bcar-25-50-25-gen63258.log 0.58 1
+bcar-25-50-25-gen63351.log 2.11 1
+bcar-25-50-25-gen63528.log 0.03 0
+bcar-25-50-25-gen63578.log 2806.29 1
+bcar-25-50-25-gen63637.log 7200
+bcar-25-50-25-gen63646.log 7200
+bcar-25-50-25-gen63649.log 7200
+bcar-25-50-25-gen63671.log 7200
+bcar-25-50-25-gen63694.log 7200
+bcar-25-50-25-gen63697.log 2.39 0
+bcar-25-50-25-gen63701.log 0.01 0
+bcar-25-50-25-gen63749.log 7200
+bcar-25-50-25-gen63766.log 0.17 0
+bcar-25-50-25-gen63799.log 7200
+bcar-25-50-25-gen63817.log 0.08 0
+bcar-25-50-25-gen63820.log 0.7 0
+bcar-25-50-25-gen63853.log 7200
+bcar-25-50-25-gen63877.log 7200
+bcar-25-50-25-gen63939.log 7200
+bcar-25-50-25-gen63948.log 7200
+bcar-25-50-25-gen63989.log 7200
+bcar-25-50-25-gen63996.log 7200
+bcar-25-50-25-gen64001.log 0.1 1
+bcar-25-50-25-gen64008.log 7200
+bcar-25-50-25-gen64036.log 7200
+bcar-25-50-25-gen64039.log 7200
+bcar-25-50-25-gen64044.log 0.04 0
+bcar-25-50-25-gen64046.log 0.04 0
+bcar-25-50-25-gen64061.log 7200
+bcar-25-50-25-gen64073.log 0.04 0
+bcar-25-50-25-gen64082.log 7200
+bcar-25-50-25-gen64086.log 7200
+bcar-25-50-25-gen64087.log 7200
+bcar-25-50-25-gen64091.log 7200
+bcar-25-50-25-gen64100.log 0.1 0
+bcar-25-50-25-gen64112.log 36.84 0
+bcar-25-50-25-gen64145.log 0.76 0
+bcar-25-50-25-gen64155.log 0.13 1
+bcar-25-50-25-gen64171.log 0.16 0
+bcar-25-50-25-gen64173.log 0.03 0
+bcar-25-50-25-gen64180.log 0.17 0
+bcar-25-50-25-gen64208.log 7200
+bcar-25-50-25-gen64217.log 7200
+bcar-25-50-25-gen64226.log 7200
+bcar-25-50-25-gen64228.log 7200
+bcar-25-50-25-gen64234.log 7200
+bcar-25-50-25-gen64238.log 7200
+bcar-25-50-25-gen64241.log 2.98 0
+bcar-25-50-25-gen64244.log 7200
+bcar-25-50-25-gen64250.log 7200
+bcar-25-50-25-gen64251.log 7200
+bcar-25-50-25-gen64255.log 0.27 0
+bcar-25-50-25-gen64258.log 7200
+bcar-25-50-25-gen64268.log 7200
+bcar-25-50-25-gen64274.log 7200
+bcar-25-50-25-gen64284.log 7200
+bcar-25-50-25-gen64285.log 0.13 0
+bcar-25-50-25-gen64291.log 0.06 0
+bcar-25-50-25-gen64293.log 7200
+bcar-25-50-25-gen64294.log 7200
+bcar-25-50-25-gen64298.log 7200
+bcar-25-50-25-gen64300.log 7200
+bcar-25-50-25-gen64301.log 0.03 0
+bcar-25-50-25-gen64315.log 7200
+bcar-25-50-25-gen64316.log 2.08 0
+bcar-25-50-25-gen64321.log 7200
+bcar-25-50-25-gen64324.log 1.3 0
+bcar-25-50-25-gen64327.log 7200
+bcar-25-50-25-gen64330.log 7200
+bcar-25-50-25-gen64334.log 7200
+bcar-25-50-25-gen64335.log 0.17 0
+bcar-25-50-25-gen64338.log 7200
+bcar-25-50-25-gen64343.log 7200
+bcar-25-50-25-gen64359.log 7200
+bcar-25-50-25-gen64360.log 7200
+bcar-25-50-25-gen9094.log 0 1
+bcar-25-50-25-gen9246.log 0 1
+bcar-25-50-25-gen9430.log 0 1
+bcar-25-50-25-gen9575.log 0 0
+bcar-25-50-25-gen9751.log 0 0
+bcar-25-50-25-gen975.log 0 1
+bcar-25-50-25-gen9774.log 0 1
+bcar-25-50-25-gen9990.log 0 1
+bcar-40-40-20-gen101900.log 0 1
+bcar-40-40-20-gen102008.log 0 1
+bcar-40-40-20-gen103895.log 0 0
+bcar-40-40-20-gen104283.log 0 1
+bcar-40-40-20-gen104464.log 0 1
+bcar-40-40-20-gen107312.log 0 0
+bcar-40-40-20-gen109178.log 0 1
+bcar-40-40-20-gen111181.log 0 1
+bcar-40-40-20-gen111391.log 0 1
+bcar-40-40-20-gen111792.log 0 1
+bcar-40-40-20-gen112016.log 0 0
+bcar-40-40-20-gen112824.log 0 1
+bcar-40-40-20-gen113047.log 0 1
+bcar-40-40-20-gen113591.log 0 1
+bcar-40-40-20-gen114953.log 0 0
+bcar-40-40-20-gen115154.log 0 1
+bcar-40-40-20-gen116096.log 0 1
+bcar-40-40-20-gen119305.log 0 1
+bcar-40-40-20-gen119310.log 0 1
+bcar-40-40-20-gen119421.log 0 1
+bcar-40-40-20-gen120052.log 0 1
+bcar-40-40-20-gen120078.log 0 1
+bcar-40-40-20-gen120949.log 0 1
+bcar-40-40-20-gen121267.log 0 1
+bcar-40-40-20-gen121646.log 0 1
+bcar-40-40-20-gen126135.log 0 1
+bcar-40-40-20-gen126306.log 0 1
+bcar-40-40-20-gen128244.log 0 1
+bcar-40-40-20-gen128735.log 0 1
+bcar-40-40-20-gen128745.log 0 1
+bcar-40-40-20-gen129806.log 0 1
+bcar-40-40-20-gen130192.log 0 1
+bcar-40-40-20-gen130313.log 0 1
+bcar-40-40-20-gen130977.log 0 1
+bcar-40-40-20-gen130979.log 0 1
+bcar-40-40-20-gen131459.log 0 1
+bcar-40-40-20-gen131687.log 0 1
+bcar-40-40-20-gen133300.log 0 1
+bcar-40-40-20-gen133612.log 0 1
+bcar-40-40-20-gen133717.log 0 1
+bcar-40-40-20-gen134005.log 0 0
+bcar-40-40-20-gen28629.log 0 1
+bcar-40-40-20-gen30695.log 0 1
+bcar-40-40-20-gen31134.log 0 1
+bcar-40-40-20-gen33788.log 0 1
+bcar-40-40-20-gen34793.log 0 0
+bcar-40-40-20-gen40281.log 0 1
+bcar-40-40-20-gen41202.log 0 1
+bcar-40-40-20-gen42171.log 0 1
+bcar-40-40-20-gen42852.log 0 0
+bcar-40-40-20-gen57099.log 0 1
+bcar-40-40-20-gen60126.log 0 0
+bcar-40-40-20-gen63713.log 0 1
+bcar-40-40-20-gen63886.log 0 1
+bcar-40-40-20-gen71142.log 0 1
+bcar-40-40-20-gen74420.log 0 1
+bcar-40-40-20-gen77286.log 0 1
+bcar-40-40-20-gen85005.log 0 1
+bcar-40-40-20-gen85147.log 0 0
+bcar-40-40-20-gen87685.log 0 1
+bcar-40-40-20-gen89469.log 0 1
+bcar-40-40-20-gen89590.log 0 1
+bcar-40-40-20-gen90028.log 0 1
+bcar-40-40-20-gen90409.log 0 1
+bcar-40-40-20-gen92214.log 0 1
+bcar-40-40-20-gen95011.log 0 0
+bcar-40-40-20-gen95916.log 0 1
+bcar-40-40-20-gen96161.log 0 1
+bcar-40-40-20-gen96885.log 0 1
+bcar-40-40-20-gen97052.log 0 0
+bcar-40-40-20-gen99507.log 0 1
+bcar-40-40-20-gen99925.log 0 1
+bcar-40-40-20-gen99974.log 0 0
+bcar-40-40-20-gen99975.log 0 1
+bcar-40-40-20-gen99976.log 0 0
+bcar-40-40-20-gen99977.log 0 0
+bcar-40-40-20-gen99978.log 0 0
+bcar-40-40-20-gen99979.log 0 0
+bcar-40-40-20-gen99980.log 0 0
+bcar-40-40-20-gen99981.log 0 0
+bcar-40-40-20-gen99982.log 0 0
+bcar-40-40-20-gen99983.log 0 0
+bcar-40-40-20-gen99984.log 0 0
+bcar-40-40-20-gen99985.log 0 0
+bcar-40-40-20-gen99986.log 0 0
+bcar-40-40-20-gen99987.log 0 0
+bcar-40-40-20-gen99988.log 0 0
+bcar-40-40-20-gen99989.log 0 0
+bcar-40-40-20-gen9998.log 0 0
+bcar-40-40-20-gen99990.log 0 0
+bcar-40-40-20-gen99991.log 0 0
+bcar-40-40-20-gen99992.log 0 0
+bcar-40-40-20-gen99993.log 0 0
+bcar-40-40-20-gen99994.log 0 0
+bcar-40-40-20-gen99995.log 0 0
+bcar-40-40-20-gen99996.log 0 0
+bcar-40-40-20-gen99997.log 0 0
+bcar-40-40-20-gen99998.log 0 0
+bcar-40-40-20-gen99999.log 0 0
+bcar-40-40-20-gen9999.log 0 0
+fcar-15-70-15-gen10390.log 0 1
+fcar-15-70-15-gen11025.log 0 1
+fcar-15-70-15-gen11126.log 0 1
+fcar-15-70-15-gen11184.log 0 1
+fcar-15-70-15-gen11221.log 0 1
+fcar-15-70-15-gen11717.log 0 1
+fcar-15-70-15-gen11802.log 0 1
+fcar-15-70-15-gen12038.log 0 1
+fcar-15-70-15-gen12700.log 0 1
+fcar-15-70-15-gen12936.log 0 1
+fcar-15-70-15-gen13253.log 0 1
+fcar-15-70-15-gen13279.log 0 1
+fcar-15-70-15-gen13561.log 0 1
+fcar-15-70-15-gen13628.log 0 1
+fcar-15-70-15-gen13973.log 0 1
+fcar-15-70-15-gen14090.log 0 1
+fcar-15-70-15-gen14170.log 0 1
+fcar-15-70-15-gen14395.log 0 1
+fcar-15-70-15-gen14558.log 0 1
+fcar-15-70-15-gen14800.log 0 1
+fcar-15-70-15-gen14906.log 0 1
+fcar-15-70-15-gen14976.log 0 1
+fcar-15-70-15-gen15013.log 0 1
+fcar-15-70-15-gen15056.log 0 1
+fcar-15-70-15-gen15084.log 0 1
+fcar-15-70-15-gen15391.log 0 1
+fcar-15-70-15-gen15429.log 0 1
+fcar-15-70-15-gen15432.log 0 1
+fcar-15-70-15-gen15563.log 0 1
+fcar-15-70-15-gen15690.log 0 1
+fcar-15-70-15-gen15753.log 0 1
+fcar-15-70-15-gen15834.log 0 0
+fcar-15-70-15-gen16330.log 0 1
+fcar-15-70-15-gen16689.log 0 1
+fcar-15-70-15-gen16751.log 0 0
+fcar-15-70-15-gen17071.log 0 1
+fcar-15-70-15-gen17325.log 0 1
+fcar-15-70-15-gen17665.log 0 1
+fcar-15-70-15-gen18091.log 0 1
+fcar-15-70-15-gen18423.log 0 1
+fcar-15-70-15-gen18457.log 0 1
+fcar-15-70-15-gen18623.log 0 1
+fcar-15-70-15-gen18630.log 0 1
+fcar-15-70-15-gen18717.log 1.14 0
+fcar-15-70-15-gen18908.log 7200
+fcar-15-70-15-gen19016.log 0 1
+fcar-15-70-15-gen19124.log 0 1
+fcar-15-70-15-gen19157.log 0 1
+fcar-15-70-15-gen19183.log 0 1
+fcar-15-70-15-gen19249.log 0 1
+fcar-15-70-15-gen19270.log 0 0
+fcar-15-70-15-gen19458.log 0 1
+fcar-15-70-15-gen19601.log 0 1
+fcar-15-70-15-gen19650.log 0 1
+fcar-15-70-15-gen19772.log 0 1
+fcar-15-70-15-gen19806.log 0 1
+fcar-15-70-15-gen1982.log 0 1
+fcar-15-70-15-gen20427.log 0 1
+fcar-15-70-15-gen20576.log 0 1
+fcar-15-70-15-gen20722.log 0 1
+fcar-15-70-15-gen20880.log 0 1
+fcar-15-70-15-gen20909.log 0 1
+fcar-15-70-15-gen21009.log 0 1
+fcar-15-70-15-gen21462.log 0 1
+fcar-15-70-15-gen21474.log 0 1
+fcar-15-70-15-gen21536.log 0 1
+fcar-15-70-15-gen21823.log 0 0
+fcar-15-70-15-gen22484.log 0 1
+fcar-15-70-15-gen22569.log 0 1
+fcar-15-70-15-gen22599.log 0 1
+fcar-15-70-15-gen22945.log 0 1
+fcar-15-70-15-gen22963.log 0 1
+fcar-15-70-15-gen23060.log 0 1
+fcar-15-70-15-gen23331.log 0 1
+fcar-15-70-15-gen23364.log 0 1
+fcar-15-70-15-gen23414.log 0 1
+fcar-15-70-15-gen23504.log 0 0
+fcar-15-70-15-gen23558.log 0 1
+fcar-15-70-15-gen2681.log 0 1
+fcar-15-70-15-gen4016.log 0 1
+fcar-15-70-15-gen4541.log 0 1
+fcar-15-70-15-gen5204.log 0 1
+fcar-15-70-15-gen5714.log 0 1
+fcar-15-70-15-gen5816.log 0 1
+fcar-15-70-15-gen6036.log 0 1
+fcar-15-70-15-gen6457.log 0 1
+fcar-15-70-15-gen6743.log 0 1
+fcar-15-70-15-gen6817.log 0 1
+fcar-15-70-15-gen7220.log 0 1
+fcar-15-70-15-gen7463.log 1.42 0
+fcar-15-70-15-gen7651.log 0 1
+fcar-15-70-15-gen7728.log 0 1
+fcar-15-70-15-gen8158.log 0 1
+fcar-15-70-15-gen8288.log 0 1
+fcar-15-70-15-gen8607.log 0 1
+fcar-15-70-15-gen8766.log 0 1
+fcar-15-70-15-gen8943.log 0 1
+fcar-15-70-15-gen9139.log 0 1
+fcar-15-70-15-gen9373.log 0 1
+fcar-15-70-15-gen9970.log 0 1
+fcar-20-40-40-gen101.log 0 1
+fcar-20-40-40-gen102.log 0.01 1
+fcar-20-40-40-gen104.log 0.06 0
+fcar-20-40-40-gen107.log 0.03 0
+fcar-20-40-40-gen108.log 0.01 1
+fcar-20-40-40-gen110.log 0 1
+fcar-20-40-40-gen115.log 0.01 1
+fcar-20-40-40-gen117.log 0.02 1
+fcar-20-40-40-gen120.log 0.01 1
+fcar-20-40-40-gen127.log 0 1
+fcar-20-40-40-gen130.log 0 1
+fcar-20-40-40-gen134.log 0.02 1
+fcar-20-40-40-gen135.log 0 1
+fcar-20-40-40-gen137.log 0.03 1
+fcar-20-40-40-gen142.log 0 1
+fcar-20-40-40-gen143.log 0.01 1
+fcar-20-40-40-gen144.log 0.02 1
+fcar-20-40-40-gen149.log 0.03 0
+fcar-20-40-40-gen152.log 0.06 1
+fcar-20-40-40-gen153.log 0.01 1
+fcar-20-40-40-gen154.log 0 1
+fcar-20-40-40-gen155.log 0.01 1
+fcar-20-40-40-gen156.log 0.03 1
+fcar-20-40-40-gen158.log 0.02 1
+fcar-20-40-40-gen160.log 0.01 1
+fcar-20-40-40-gen161.log 0.02 1
+fcar-20-40-40-gen162.log 0.01 1
+fcar-20-40-40-gen164.log 0 1
+fcar-20-40-40-gen165.log 0.07 1
+fcar-20-40-40-gen166.log 0.03 0
+fcar-20-40-40-gen168.log 0.01 1
+fcar-20-40-40-gen169.log 0.02 1
+fcar-20-40-40-gen170.log 0.01 0
+fcar-20-40-40-gen171.log 0.01 1
+fcar-20-40-40-gen172.log 0.03 1
+fcar-20-40-40-gen174.log 0.16 0
+fcar-20-40-40-gen181.log 0 1
+fcar-20-40-40-gen182.log 0.03 1
+fcar-20-40-40-gen183.log 0.01 1
+fcar-20-40-40-gen185.log 0.01 1
+fcar-20-40-40-gen187.log 0.02 1
+fcar-20-40-40-gen188.log 0.01 1
+fcar-20-40-40-gen193.log 0.01 1
+fcar-20-40-40-gen196.log 0.32 1
+fcar-20-40-40-gen199.log 0.03 1
+fcar-20-40-40-gen200.log 0.01 1
+fcar-20-40-40-gen202.log 0.32 0
+fcar-20-40-40-gen204.log 0.04 1
+fcar-20-40-40-gen207.log 0.02 1
+fcar-20-40-40-gen208.log 0.01 1
+fcar-20-40-40-gen209.log 0.01 1
+fcar-20-40-40-gen211.log 0.03 1
+fcar-20-40-40-gen212.log 0.16 1
+fcar-20-40-40-gen213.log 0.31 1
+fcar-20-40-40-gen216.log 0.33 1
+fcar-20-40-40-gen217.log 0.01 1
+fcar-20-40-40-gen219.log 0.33 1
+fcar-20-40-40-gen221.log 0.02 1
+fcar-20-40-40-gen222.log 0.01 1
+fcar-20-40-40-gen224.log 0.16 1
+fcar-20-40-40-gen225.log 0.04 1
+fcar-20-40-40-gen228.log 0.01 1
+fcar-20-40-40-gen229.log 0.01 1
+fcar-20-40-40-gen231.log 0.02 0
+fcar-20-40-40-gen233.log 0.06 1
+fcar-20-40-40-gen235.log 0.01 1
+fcar-20-40-40-gen236.log 0.01 1
+fcar-20-40-40-gen238.log 0 1
+fcar-20-40-40-gen240.log 0.01 1
+fcar-20-40-40-gen241.log 0.06 1
+fcar-20-40-40-gen244.log 0.01 1
+fcar-20-40-40-gen245.log 0.06 1
+fcar-20-40-40-gen246.log 0.01 1
+fcar-20-40-40-gen247.log 0.02 1
+fcar-20-40-40-gen252.log 0.67 1
+fcar-20-40-40-gen255.log 0.15 1
+fcar-20-40-40-gen256.log 0.03 1
+fcar-20-40-40-gen257.log 0.18 1
+fcar-20-40-40-gen258.log 0.16 1
+fcar-20-40-40-gen262.log 0.1 1
+fcar-20-40-40-gen263.log 0.45 1
+fcar-20-40-40-gen266.log 0.02 1
+fcar-20-40-40-gen268.log 0.03 1
+fcar-20-40-40-gen270.log 0.01 1
+fcar-20-40-40-gen274.log 0.04 0
+fcar-20-40-40-gen276.log 0.01 1
+fcar-20-40-40-gen277.log 0.05 1
+fcar-20-40-40-gen281.log 0.42 1
+fcar-20-40-40-gen282.log 0.42 1
+fcar-20-40-40-gen283.log 0.09 1
+fcar-20-40-40-gen284.log 0.01 1
+fcar-20-40-40-gen285.log 0.01 1
+fcar-20-40-40-gen288.log 0.08 1
+fcar-20-40-40-gen292.log 0.03 1
+fcar-20-40-40-gen293.log 0.02 1
+fcar-20-40-40-gen294.log 0.02 1
+fcar-20-40-40-gen91.log 0 1
+fcar-20-40-40-gen97.log 0.01 0
+fcar-20-40-40-gen98.log 0 1
+fcar-20-40-40-gen99.log 0.09 1
+fcar-25-50-25-gen1060.log 0 0
+fcar-25-50-25-gen1168.log 0.45 0
+fcar-25-50-25-gen1169.log 0 1
+fcar-25-50-25-gen1192.log 0.01 1
+fcar-25-50-25-gen1219.log 0 1
+fcar-25-50-25-gen1247.log 0.01 1
+fcar-25-50-25-gen1255.log 0 0
+fcar-25-50-25-gen1293.log 0 1
+fcar-25-50-25-gen1305.log 0 1
+fcar-25-50-25-gen1327.log 2.4 0
+fcar-25-50-25-gen1333.log 0 1
+fcar-25-50-25-gen1353.log 0.3 0
+fcar-25-50-25-gen1441.log 0 1
+fcar-25-50-25-gen1451.log 0.01 1
+fcar-25-50-25-gen1474.log 0.01 1
+fcar-25-50-25-gen1477.log 0 1
+fcar-25-50-25-gen1485.log 0 1
+fcar-25-50-25-gen1487.log 7200
+fcar-25-50-25-gen1491.log 0 1
+fcar-25-50-25-gen1503.log 0.09 0
+fcar-25-50-25-gen1532.log 0 1
+fcar-25-50-25-gen1588.log 0 1
+fcar-25-50-25-gen1609.log 0 1
+fcar-25-50-25-gen1633.log 0.01 1
+fcar-25-50-25-gen1637.log 0 0
+fcar-25-50-25-gen1690.log 0 1
+fcar-25-50-25-gen1696.log 0 1
+fcar-25-50-25-gen1704.log 0 1
+fcar-25-50-25-gen1716.log 0 1
+fcar-25-50-25-gen1734.log 0 1
+fcar-25-50-25-gen1741.log 0.01 1
+fcar-25-50-25-gen1779.log 0 1
+fcar-25-50-25-gen1802.log 0 0
+fcar-25-50-25-gen1804.log 0 1
+fcar-25-50-25-gen1809.log 0 0
+fcar-25-50-25-gen1811.log 0 0
+fcar-25-50-25-gen1820.log 0.01 1
+fcar-25-50-25-gen1845.log 0 0
+fcar-25-50-25-gen1858.log 0 1
+fcar-25-50-25-gen1880.log 0 1
+fcar-25-50-25-gen1884.log 0 0
+fcar-25-50-25-gen1886.log 4.49 0
+fcar-25-50-25-gen1938.log 0 1
+fcar-25-50-25-gen1940.log 2.36 0
+fcar-25-50-25-gen1942.log 0.19 0
+fcar-25-50-25-gen1980.log 0 1
+fcar-25-50-25-gen1984.log 0 0
+fcar-25-50-25-gen1986.log 0 1
+fcar-25-50-25-gen1994.log 0 0
+fcar-25-50-25-gen2002.log 0 0
+fcar-25-50-25-gen2013.log 0 0
+fcar-25-50-25-gen2024.log 0 1
+fcar-25-50-25-gen2033.log 0 1
+fcar-25-50-25-gen2036.log 0.01 1
+fcar-25-50-25-gen2045.log 7200
+fcar-25-50-25-gen2058.log 0 0
+fcar-25-50-25-gen2062.log 0 0
+fcar-25-50-25-gen2084.log 0 0
+fcar-25-50-25-gen2100.log 0.16 1
+fcar-25-50-25-gen2122.log 0 1
+fcar-25-50-25-gen2131.log 0 0
+fcar-25-50-25-gen2150.log 0 1
+fcar-25-50-25-gen2157.log 0 1
+fcar-25-50-25-gen2179.log 0 0
+fcar-25-50-25-gen2199.log 1.08 0
+fcar-25-50-25-gen2209.log 0 0
+fcar-25-50-25-gen2211.log 0.01 1
+fcar-25-50-25-gen2214.log 0.02 0
+fcar-25-50-25-gen2241.log 74.86 0
+fcar-25-50-25-gen2247.log 0.01 1
+fcar-25-50-25-gen2251.log 0.47 0
+fcar-25-50-25-gen2252.log 0 1
+fcar-25-50-25-gen2263.log 0.01 0
+fcar-25-50-25-gen2264.log 0 1
+fcar-25-50-25-gen2274.log 0.01 1
+fcar-25-50-25-gen2286.log 0 1
+fcar-25-50-25-gen2310.log 0 1
+fcar-25-50-25-gen2329.log 0 1
+fcar-25-50-25-gen2336.log 0.02 0
+fcar-25-50-25-gen2356.log 0.07 0
+fcar-25-50-25-gen2367.log 12.69 0
+fcar-25-50-25-gen2390.log 0 1
+fcar-25-50-25-gen2402.log 0 1
+fcar-25-50-25-gen2415.log 0.01 1
+fcar-25-50-25-gen2419.log 0.43 0
+fcar-25-50-25-gen2435.log 0.11 0
+fcar-25-50-25-gen2462.log 0.71 0
+fcar-25-50-25-gen2467.log 0.59 0
+fcar-25-50-25-gen2502.log 0 1
+fcar-25-50-25-gen2507.log 0 1
+fcar-25-50-25-gen732.log 0 0
+fcar-25-50-25-gen749.log 0 0
+fcar-25-50-25-gen750.log 0 0
+fcar-25-50-25-gen759.log 0 0
+fcar-25-50-25-gen761.log 13.26 0
+fcar-25-50-25-gen785.log 0 1
+fcar-25-50-25-gen800.log 0 1
+fcar-25-50-25-gen802.log 0.01 1
+fcar-25-50-25-gen812.log 0.1 0
+fcar-25-50-25-gen815.log 0 1
+fcar-40-40-20-gen2834.log 0 1
+fcar-40-40-20-gen2877.log 0 1
+fcar-40-40-20-gen2894.log 0 1
+fcar-40-40-20-gen2911.log 0.02 1
+fcar-40-40-20-gen2913.log 0 0
+fcar-40-40-20-gen2915.log 0.01 0
+fcar-40-40-20-gen2925.log 0.01 1
+fcar-40-40-20-gen2935.log 0.03 1
+fcar-40-40-20-gen2945.log 7200
+fcar-40-40-20-gen2946.log 0 1
+fcar-40-40-20-gen2947.log 0 1
+fcar-40-40-20-gen2958.log 0.01 1
+fcar-40-40-20-gen2960.log 0.01 1
+fcar-40-40-20-gen2979.log 1.53 0
+fcar-40-40-20-gen2980.log 0 1
+fcar-40-40-20-gen2983.log 0 1
+fcar-40-40-20-gen2984.log 0 0
+fcar-40-40-20-gen2990.log 0.01 1
+fcar-40-40-20-gen2991.log 0 0
+fcar-40-40-20-gen2994.log 0 1
+fcar-40-40-20-gen3001.log 7200
+fcar-40-40-20-gen3002.log 0.01 1
+fcar-40-40-20-gen3003.log 7200
+fcar-40-40-20-gen3007.log 0.13 0
+fcar-40-40-20-gen3010.log 0 1
+fcar-40-40-20-gen3011.log 0 0
+fcar-40-40-20-gen3013.log 0.01 1
+fcar-40-40-20-gen3020.log 0 1
+fcar-40-40-20-gen3021.log 0.01 1
+fcar-40-40-20-gen3023.log 0 0
+fcar-40-40-20-gen3032.log 0.15 1
+fcar-40-40-20-gen3034.log 7200
+fcar-40-40-20-gen3041.log 0.03 1
+fcar-40-40-20-gen3052.log 7200
+fcar-40-40-20-gen3056.log 0.01 1
+fcar-40-40-20-gen3064.log 0.06 1
+fcar-40-40-20-gen3067.log 0.02 1
+fcar-40-40-20-gen3069.log 0.01 1
+fcar-40-40-20-gen3076.log 0.01 1
+fcar-40-40-20-gen3081.log 0 0
+fcar-40-40-20-gen3083.log 7200
+fcar-40-40-20-gen3086.log 0.01 1
+fcar-40-40-20-gen3089.log 0.03 1
+fcar-40-40-20-gen3094.log 7200
+fcar-40-40-20-gen3101.log 7200
+fcar-40-40-20-gen3110.log 0 0
+fcar-40-40-20-gen3123.log 0.01 1
+fcar-40-40-20-gen3124.log 0 1
+fcar-40-40-20-gen3131.log 0.01 1
+fcar-40-40-20-gen3145.log 0.01 0
+fcar-40-40-20-gen3157.log 7200
+fcar-40-40-20-gen3159.log 0.03 1
+fcar-40-40-20-gen3160.log 0.04 1
+fcar-40-40-20-gen3161.log 0 1
+fcar-40-40-20-gen3167.log 7200
+fcar-40-40-20-gen3171.log 0.08 1
+fcar-40-40-20-gen3175.log 0 1
+fcar-40-40-20-gen3176.log 0.01 1
+fcar-40-40-20-gen3184.log 0 0
+fcar-40-40-20-gen3186.log 0 1
+fcar-40-40-20-gen3189.log 7200
+fcar-40-40-20-gen3191.log 0 1
+fcar-40-40-20-gen3196.log 0 0
+fcar-40-40-20-gen3202.log 0.05 1
+fcar-40-40-20-gen3205.log 0.02 1
+fcar-40-40-20-gen3206.log 0.04 0
+fcar-40-40-20-gen3210.log 7200
+fcar-40-40-20-gen3216.log 0.03 1
+fcar-40-40-20-gen3220.log 0 1
+fcar-40-40-20-gen3224.log 0.01 0
+fcar-40-40-20-gen3231.log 0.01 1
+fcar-40-40-20-gen3237.log 0 1
+fcar-40-40-20-gen3238.log 0.02 1
+fcar-40-40-20-gen3239.log 7200
+fcar-40-40-20-gen3246.log 0.01 1
+fcar-40-40-20-gen3249.log 0.01 1
+fcar-40-40-20-gen3258.log 0.04 1
+fcar-40-40-20-gen3259.log 7200
+fcar-40-40-20-gen3260.log 0 0
+fcar-40-40-20-gen3277.log 0.08 1
+fcar-40-40-20-gen3293.log 0.02 0
+fcar-40-40-20-gen3301.log 0 1
+fcar-40-40-20-gen3315.log 49.94 1
+fcar-40-40-20-gen3323.log 0 1
+fcar-40-40-20-gen3325.log 0.01 1
+fcar-40-40-20-gen3326.log 0 1
+fcar-40-40-20-gen3329.log 0.01 1
+fcar-40-40-20-gen3331.log 0.59 0
+fcar-40-40-20-gen3332.log 0 0
+fcar-40-40-20-gen3334.log 0.01 1
+fcar-40-40-20-gen3336.log 7200
+fcar-40-40-20-gen3338.log 0 1
+fcar-40-40-20-gen3346.log 0.13 1
+fcar-40-40-20-gen3351.log 7200
+fcar-40-40-20-gen3352.log 0.01 1
+fcar-40-40-20-gen3359.log 0.01 0
+fcar-40-40-20-gen3365.log 0.1 1
+fcar-40-40-20-gen3366.log 0.01 1
+fcar-40-40-20-gen3367.log 0.01 1
+fcar-40-40-20-gen3378.log 9.09 1
+ic3-15-70-15-gen1054.log 0.01 1
+ic3-15-70-15-gen1082.log 2.37 0
+ic3-15-70-15-gen1115.log 0 1
+ic3-15-70-15-gen1134.log 0 1
+ic3-15-70-15-gen1188.log 0 1
+ic3-15-70-15-gen1195.log 3.45 0
+ic3-15-70-15-gen1219.log 2554.13 0
+ic3-15-70-15-gen1226.log 20.3 1
+ic3-15-70-15-gen1239.log 1.43 0
+ic3-15-70-15-gen1275.log 0.02 1
+ic3-15-70-15-gen1362.log 0 1
+ic3-15-70-15-gen1370.log 168.68 0
+ic3-15-70-15-gen1371.log 0.25 1
+ic3-15-70-15-gen1374.log 0 1
+ic3-15-70-15-gen1379.log 0.15 1
+ic3-15-70-15-gen1386.log 0.88 0
+ic3-15-70-15-gen1387.log 3719.89 0
+ic3-15-70-15-gen1390.log 0.09 1
+ic3-15-70-15-gen1405.log 0.01 1
+ic3-15-70-15-gen1407.log 0 1
+ic3-15-70-15-gen1428.log 3.28 0
+ic3-15-70-15-gen1458.log 0.9 1
+ic3-15-70-15-gen1467.log 0 1
+ic3-15-70-15-gen1492.log 0 1
+ic3-15-70-15-gen1513.log 0.49 0
+ic3-15-70-15-gen1535.log 0 1
+ic3-15-70-15-gen1537.log 0.89 0
+ic3-15-70-15-gen1547.log 0 1
+ic3-15-70-15-gen1612.log 0 1
+ic3-15-70-15-gen1635.log 0.01 1
+ic3-15-70-15-gen1655.log 0.45 0
+ic3-15-70-15-gen1686.log 5.63 0
+ic3-15-70-15-gen1736.log 0.01 1
+ic3-15-70-15-gen1761.log 133.65 0
+ic3-15-70-15-gen1785.log 0 1
+ic3-15-70-15-gen1795.log 11.94 0
+ic3-15-70-15-gen1805.log 0 1
+ic3-15-70-15-gen1807.log 0.05 0
+ic3-15-70-15-gen1830.log 0 1
+ic3-15-70-15-gen1835.log 0.01 1
+ic3-15-70-15-gen1851.log 0.06 1
+ic3-15-70-15-gen1881.log 0.76 0
+ic3-15-70-15-gen1887.log 4.69 0
+ic3-15-70-15-gen1893.log 0 1
+ic3-15-70-15-gen1904.log 109.94 0
+ic3-15-70-15-gen1943.log 0 1
+ic3-15-70-15-gen1944.log 8.33 0
+ic3-15-70-15-gen1952.log 0.02 1
+ic3-15-70-15-gen1994.log 8.74 0
+ic3-15-70-15-gen2003.log 0.02 1
+ic3-15-70-15-gen2006.log 0 1
+ic3-15-70-15-gen2020.log 0 1
+ic3-15-70-15-gen2042.log 0.01 1
+ic3-15-70-15-gen2046.log 0 1
+ic3-15-70-15-gen2050.log 0 1
+ic3-15-70-15-gen2077.log 575.65 0
+ic3-15-70-15-gen2090.log 1527.83 0
+ic3-15-70-15-gen2101.log 0.08 1
+ic3-15-70-15-gen2106.log 0.22 1
+ic3-15-70-15-gen2110.log 0.03 1
+ic3-15-70-15-gen2112.log 0 1
+ic3-15-70-15-gen2117.log 4.07 0
+ic3-15-70-15-gen2122.log 0.24 1
+ic3-15-70-15-gen2148.log 0.04 1
+ic3-15-70-15-gen2161.log 0 1
+ic3-15-70-15-gen2189.log 0 1
+ic3-15-70-15-gen2202.log 0.02 1
+ic3-15-70-15-gen2244.log 0 1
+ic3-15-70-15-gen2249.log 0.32 1
+ic3-15-70-15-gen2254.log 0.02 1
+ic3-15-70-15-gen2268.log 0.01 1
+ic3-15-70-15-gen2269.log 0 1
+ic3-15-70-15-gen2329.log 0.01 1
+ic3-15-70-15-gen2340.log 0 1
+ic3-15-70-15-gen2362.log 3.64 0
+ic3-15-70-15-gen2377.log 0.41 0
+ic3-15-70-15-gen2413.log 7200
+ic3-15-70-15-gen2420.log 0.98 0
+ic3-15-70-15-gen2435.log 0.04 1
+ic3-15-70-15-gen2488.log 0.14 1
+ic3-15-70-15-gen2494.log 7200
+ic3-15-70-15-gen2508.log 0.01 1
+ic3-15-70-15-gen2512.log 7200
+ic3-15-70-15-gen2518.log 0.18 1
+ic3-15-70-15-gen2530.log 0 1
+ic3-15-70-15-gen2551.log 0.03 1
+ic3-15-70-15-gen2557.log 6.72 0
+ic3-15-70-15-gen2579.log 0 1
+ic3-15-70-15-gen2623.log 0.02 1
+ic3-15-70-15-gen2629.log 0 1
+ic3-15-70-15-gen2632.log 0.01 1
+ic3-15-70-15-gen2648.log 4.91 0
+ic3-15-70-15-gen2672.log 0.01 1
+ic3-15-70-15-gen2699.log 0.64 1
+ic3-15-70-15-gen2728.log 10.23 0
+ic3-15-70-15-gen2738.log 7200
+ic3-15-70-15-gen2750.log 0 1
+ic3-15-70-15-gen782.log 0 1
+ic3-15-70-15-gen833.log 0 1
+ic3-15-70-15-gen917.log 2.35 0
+ic3-20-40-40-gen1404.log 1.06 1
+ic3-20-40-40-gen1493.log 0.75 1
+ic3-20-40-40-gen1608.log 0.69 1
+ic3-20-40-40-gen1769.log 0.67 1
+ic3-20-40-40-gen1840.log 0.55 1
+ic3-20-40-40-gen1884.log 0.95 1
+ic3-20-40-40-gen2054.log 0.76 1
+ic3-20-40-40-gen2173.log 0.83 1
+ic3-20-40-40-gen2287.log 0.56 1
+ic3-20-40-40-gen2311.log 0.82 1
+ic3-20-40-40-gen2331.log 1.07 1
+ic3-20-40-40-gen2349.log 1.07 1
+ic3-20-40-40-gen2425.log 0.66 1
+ic3-20-40-40-gen2612.log 0.63 1
+ic3-20-40-40-gen2627.log 0.6 1
+ic3-20-40-40-gen2669.log 0.62 1
+ic3-20-40-40-gen2713.log 0.97 1
+ic3-20-40-40-gen2775.log 1.1 1
+ic3-20-40-40-gen2777.log 0.87 1
+ic3-20-40-40-gen2814.log 1.09 1
+ic3-20-40-40-gen2822.log 0.58 1
+ic3-20-40-40-gen2887.log 0.96 1
+ic3-20-40-40-gen2913.log 0.85 1
+ic3-20-40-40-gen3176.log 1.01 1
+ic3-20-40-40-gen3179.log 1.18 1
+ic3-20-40-40-gen3230.log 1 1
+ic3-20-40-40-gen3244.log 1.08 1
+ic3-20-40-40-gen3396.log 1.15 1
+ic3-20-40-40-gen3399.log 1.15 1
+ic3-20-40-40-gen3463.log 1.09 1
+ic3-20-40-40-gen3477.log 1.15 1
+ic3-20-40-40-gen3540.log 1.09 1
+ic3-20-40-40-gen3562.log 1.01 1
+ic3-20-40-40-gen3582.log 0.7 1
+ic3-20-40-40-gen3607.log 1.2 1
+ic3-20-40-40-gen3634.log 1.18 1
+ic3-20-40-40-gen3667.log 1.27 1
+ic3-20-40-40-gen3708.log 0.98 1
+ic3-20-40-40-gen3736.log 1.29 1
+ic3-20-40-40-gen3758.log 1.17 1
+ic3-20-40-40-gen3760.log 1.24 1
+ic3-20-40-40-gen3894.log 0.73 1
+ic3-20-40-40-gen3898.log 0.9 1
+ic3-20-40-40-gen3910.log 1.11 1
+ic3-20-40-40-gen3917.log 0.55 1
+ic3-20-40-40-gen3931.log 0.54 1
+ic3-20-40-40-gen3932.log 0.84 1
+ic3-20-40-40-gen3957.log 0.95 1
+ic3-20-40-40-gen3983.log 1.12 1
+ic3-20-40-40-gen4018.log 0.77 1
+ic3-20-40-40-gen403.log 1 1
+ic3-20-40-40-gen4057.log 0.72 1
+ic3-20-40-40-gen4060.log 1.28 1
+ic3-20-40-40-gen4089.log 1.26 1
+ic3-20-40-40-gen4097.log 0.91 1
+ic3-20-40-40-gen413.log 1.54 1
+ic3-20-40-40-gen4157.log 0.97 1
+ic3-20-40-40-gen4159.log 1.26 1
+ic3-20-40-40-gen4164.log 1.34 1
+ic3-20-40-40-gen4182.log 1.23 1
+ic3-20-40-40-gen4186.log 0.62 1
+ic3-20-40-40-gen4251.log 1.27 1
+ic3-20-40-40-gen4293.log 1.25 1
+ic3-20-40-40-gen4338.log 0.89 1
+ic3-20-40-40-gen4349.log 1.24 1
+ic3-20-40-40-gen4383.log 1.15 1
+ic3-20-40-40-gen4401.log 1.24 1
+ic3-20-40-40-gen4419.log 0.85 1
+ic3-20-40-40-gen4453.log 1.28 1
+ic3-20-40-40-gen4497.log 1.33 1
+ic3-20-40-40-gen4502.log 0.56 1
+ic3-20-40-40-gen4510.log 0.83 1
+ic3-20-40-40-gen4512.log 0.78 1
+ic3-20-40-40-gen4564.log 1.22 1
+ic3-20-40-40-gen4582.log 1.14 1
+ic3-20-40-40-gen4655.log 1.05 1
+ic3-20-40-40-gen4689.log 0.95 1
+ic3-20-40-40-gen4692.log 1.17 1
+ic3-20-40-40-gen4702.log 1.22 1
+ic3-20-40-40-gen4703.log 1.04 1
+ic3-20-40-40-gen4728.log 1.08 1
+ic3-20-40-40-gen4776.log 0.98 1
+ic3-20-40-40-gen4797.log 1.08 1
+ic3-20-40-40-gen4799.log 1.29 1
+ic3-20-40-40-gen4809.log 0.91 1
+ic3-20-40-40-gen4860.log 1.11 1
+ic3-20-40-40-gen4900.log 0.66 1
+ic3-20-40-40-gen4902.log 0.86 1
+ic3-20-40-40-gen4915.log 0.87 1
+ic3-20-40-40-gen4962.log 0.94 1
+ic3-20-40-40-gen4965.log 0.91 1
+ic3-20-40-40-gen4981.log 0.82 1
+ic3-20-40-40-gen4984.log 1.14 1
+ic3-20-40-40-gen633.log 1.25 1
+ic3-20-40-40-gen639.log 0.81 1
+ic3-20-40-40-gen676.log 1.01 1
+ic3-20-40-40-gen713.log 1.08 1
+ic3-20-40-40-gen757.log 1.06 1
+ic3-20-40-40-gen874.log 0.88 1
+ic3-20-40-40-gen921.log 1.05 1
+ic3-25-50-25-gen10002.log 0.93 1
+ic3-25-50-25-gen10043.log 0.05 1
+ic3-25-50-25-gen10096.log 7200
+ic3-25-50-25-gen10249.log 5.23 1
+ic3-25-50-25-gen10259.log 0.1 1
+ic3-25-50-25-gen10337.log 0.41 1
+ic3-25-50-25-gen10351.log 25.56 0
+ic3-25-50-25-gen10378.log 0.05 1
+ic3-25-50-25-gen10382.log 7.18 1
+ic3-25-50-25-gen10435.log 7200
+ic3-25-50-25-gen10481.log 0.06 1
+ic3-25-50-25-gen10533.log 0.19 1
+ic3-25-50-25-gen10558.log 0.07 1
+ic3-25-50-25-gen10601.log 0.01 1
+ic3-25-50-25-gen10795.log 0.28 1
+ic3-25-50-25-gen11005.log 5.68 1
+ic3-25-50-25-gen11022.log 2.12 1
+ic3-25-50-25-gen11106.log 0.06 1
+ic3-25-50-25-gen11119.log 26.6 0
+ic3-25-50-25-gen11155.log 0.4 1
+ic3-25-50-25-gen11249.log 0.09 1
+ic3-25-50-25-gen11312.log 3.76 1
+ic3-25-50-25-gen11338.log 45 1
+ic3-25-50-25-gen11346.log 0.15 1
+ic3-25-50-25-gen11350.log 131.8 0
+ic3-25-50-25-gen11376.log 0.19 1
+ic3-25-50-25-gen11379.log 0.32 1
+ic3-25-50-25-gen11382.log 38.18 0
+ic3-25-50-25-gen11454.log 0.02 1
+ic3-25-50-25-gen11550.log 0.1 1
+ic3-25-50-25-gen11568.log 440.24 0
+ic3-25-50-25-gen11655.log 0.59 1
+ic3-25-50-25-gen11687.log 0.07 1
+ic3-25-50-25-gen11717.log 7200
+ic3-25-50-25-gen11735.log 7200
+ic3-25-50-25-gen11743.log 7200
+ic3-25-50-25-gen11807.log 9.15 1
+ic3-25-50-25-gen11816.log 0.18 1
+ic3-25-50-25-gen11924.log 0.14 1
+ic3-25-50-25-gen11973.log 3.4 1
+ic3-25-50-25-gen12009.log 0.14 1
+ic3-25-50-25-gen12038.log 1.12 1
+ic3-25-50-25-gen12064.log 38.48 0
+ic3-25-50-25-gen12102.log 0.52 1
+ic3-25-50-25-gen12176.log 7200
+ic3-25-50-25-gen12200.log 0.18 1
+ic3-25-50-25-gen12215.log 0.19 1
+ic3-25-50-25-gen12229.log 243.63 1
+ic3-25-50-25-gen12262.log 2.21 1
+ic3-25-50-25-gen12271.log 0.24 1
+ic3-25-50-25-gen12301.log 0.03 1
+ic3-25-50-25-gen12356.log 1.8 1
+ic3-25-50-25-gen12394.log 7200
+ic3-25-50-25-gen12514.log 2.99 0
+ic3-25-50-25-gen12578.log 0.05 1
+ic3-25-50-25-gen12638.log 7200
+ic3-25-50-25-gen12650.log 13.58 1
+ic3-25-50-25-gen12709.log 2.92 1
+ic3-25-50-25-gen12806.log 2.3 1
+ic3-25-50-25-gen12807.log 10.69 1
+ic3-25-50-25-gen12811.log 16.84 1
+ic3-25-50-25-gen12821.log 0.03 1
+ic3-25-50-25-gen12845.log 7200
+ic3-25-50-25-gen12852.log 208.83 0
+ic3-25-50-25-gen12883.log 1.7 1
+ic3-25-50-25-gen13028.log 951.39 0
+ic3-25-50-25-gen13090.log 0.55 1
+ic3-25-50-25-gen13173.log 93.84 0
+ic3-25-50-25-gen13251.log 0.04 1
+ic3-25-50-25-gen13260.log 18.68 1
+ic3-25-50-25-gen13266.log 0.55 1
+ic3-25-50-25-gen13267.log 1.98 1
+ic3-25-50-25-gen13352.log 0.03 1
+ic3-25-50-25-gen13379.log 0.12 1
+ic3-25-50-25-gen13392.log 0.08 0
+ic3-25-50-25-gen13419.log 0.21 1
+ic3-25-50-25-gen13460.log 117.59 0
+ic3-25-50-25-gen13521.log 1.27 1
+ic3-25-50-25-gen13537.log 0.18 1
+ic3-25-50-25-gen13562.log 33.5 0
+ic3-25-50-25-gen13632.log 0.69 1
+ic3-25-50-25-gen7802.log 12.07 0
+ic3-25-50-25-gen7828.log 7200
+ic3-25-50-25-gen8133.log 0.23 1
+ic3-25-50-25-gen8209.log 7200
+ic3-25-50-25-gen8550.log 0.12 1
+ic3-25-50-25-gen8675.log 0.16 1
+ic3-25-50-25-gen8886.log 90.27 0
+ic3-25-50-25-gen8950.log 0.17 1
+ic3-25-50-25-gen9247.log 7200
+ic3-25-50-25-gen9458.log 0.26 1
+ic3-25-50-25-gen9611.log 1.91 1
+ic3-25-50-25-gen9689.log 0.02 1
+ic3-25-50-25-gen9746.log 0.07 1
+ic3-25-50-25-gen9784.log 7200
+ic3-25-50-25-gen9840.log 0.27 1
+ic3-25-50-25-gen9844.log 3795.21 1
+ic3-25-50-25-gen9907.log 16.68 1
+ic3-25-50-25-gen9950.log 0.62 1
+ic3-25-50-25-gen9997.log 0.04 1
+ic3-40-40-20-gen99909.log 0 0
+ic3-40-40-20-gen99910.log 0 0
+ic3-40-40-20-gen99911.log 0 0
+ic3-40-40-20-gen99912.log 0 0
+ic3-40-40-20-gen99913.log 0 0
+ic3-40-40-20-gen99914.log 0 0
+ic3-40-40-20-gen99915.log 0 0
+ic3-40-40-20-gen99916.log 0 0
+ic3-40-40-20-gen99917.log 0 0
+ic3-40-40-20-gen99918.log 0 0
+ic3-40-40-20-gen99919.log 0 0
+ic3-40-40-20-gen9991.log 0 0
+ic3-40-40-20-gen99920.log 0 0
+ic3-40-40-20-gen99921.log 0 0
+ic3-40-40-20-gen99922.log 0 0
+ic3-40-40-20-gen99923.log 0 0
+ic3-40-40-20-gen99924.log 0 0
+ic3-40-40-20-gen99925.log 0 0
+ic3-40-40-20-gen99926.log 0 0
+ic3-40-40-20-gen99927.log 0 0
+ic3-40-40-20-gen99928.log 0 0
+ic3-40-40-20-gen99929.log 0 0
+ic3-40-40-20-gen9992.log 0 0
+ic3-40-40-20-gen99930.log 0 0
+ic3-40-40-20-gen99931.log 0 0
+ic3-40-40-20-gen99932.log 0 0
+ic3-40-40-20-gen99933.log 0 0
+ic3-40-40-20-gen99934.log 0 0
+ic3-40-40-20-gen99935.log 0 0
+ic3-40-40-20-gen99936.log 0 0
+ic3-40-40-20-gen99937.log 0 0
+ic3-40-40-20-gen99938.log 0 0
+ic3-40-40-20-gen99939.log 0 0
+ic3-40-40-20-gen9993.log 0 0
+ic3-40-40-20-gen99940.log 0 0
+ic3-40-40-20-gen99941.log 0 0
+ic3-40-40-20-gen99942.log 0 0
+ic3-40-40-20-gen99943.log 0 0
+ic3-40-40-20-gen99944.log 0 0
+ic3-40-40-20-gen99945.log 0 0
+ic3-40-40-20-gen99946.log 0 0
+ic3-40-40-20-gen99947.log 0 0
+ic3-40-40-20-gen99948.log 0 0
+ic3-40-40-20-gen99949.log 0 0
+ic3-40-40-20-gen9994.log 0 0
+ic3-40-40-20-gen99950.log 0 0
+ic3-40-40-20-gen99951.log 0 0
+ic3-40-40-20-gen99952.log 0 0
+ic3-40-40-20-gen99953.log 0 0
+ic3-40-40-20-gen99954.log 0 1
+ic3-40-40-20-gen99955.log 0 0
+ic3-40-40-20-gen99956.log 0 0
+ic3-40-40-20-gen99957.log 0 0
+ic3-40-40-20-gen99958.log 0 0
+ic3-40-40-20-gen99959.log 0 0
+ic3-40-40-20-gen9995.log 0 0
+ic3-40-40-20-gen99960.log 0 0
+ic3-40-40-20-gen99961.log 0 0
+ic3-40-40-20-gen99962.log 0 0
+ic3-40-40-20-gen99963.log 0 0
+ic3-40-40-20-gen99964.log 0 0
+ic3-40-40-20-gen99965.log 0.01 0
+ic3-40-40-20-gen99966.log 0 0
+ic3-40-40-20-gen99967.log 0 0
+ic3-40-40-20-gen99968.log 0 0
+ic3-40-40-20-gen99969.log 0 0
+ic3-40-40-20-gen9996.log 0 0
+ic3-40-40-20-gen99970.log 0 0
+ic3-40-40-20-gen99971.log 0 0
+ic3-40-40-20-gen99972.log 0 0
+ic3-40-40-20-gen99973.log 0 0
+ic3-40-40-20-gen99974.log 0 0
+ic3-40-40-20-gen99975.log 0 0
+ic3-40-40-20-gen99976.log 0 0
+ic3-40-40-20-gen99977.log 0 0
+ic3-40-40-20-gen99978.log 0 0
+ic3-40-40-20-gen99979.log 0 0
+ic3-40-40-20-gen9997.log 0 0
+ic3-40-40-20-gen99980.log 0 0
+ic3-40-40-20-gen99981.log 0 0
+ic3-40-40-20-gen99982.log 0 0
+ic3-40-40-20-gen99983.log 0 0
+ic3-40-40-20-gen99984.log 0 0
+ic3-40-40-20-gen99985.log 0 0
+ic3-40-40-20-gen99986.log 0 0
+ic3-40-40-20-gen99987.log 0 0
+ic3-40-40-20-gen99988.log 0 0
+ic3-40-40-20-gen99989.log 0 0
+ic3-40-40-20-gen9998.log 0 0
+ic3-40-40-20-gen99990.log 0 0
+ic3-40-40-20-gen99991.log 0 0
+ic3-40-40-20-gen99992.log 0 0
+ic3-40-40-20-gen99993.log 0 0
+ic3-40-40-20-gen99994.log 0 0
+ic3-40-40-20-gen99995.log 0 0
+ic3-40-40-20-gen99996.log 0 0
+ic3-40-40-20-gen99997.log 0 0
+ic3-40-40-20-gen99998.log 0 0
+ic3-40-40-20-gen99999.log 0 0
+ic3-40-40-20-gen9999.log 0 0
+pdr-15-70-15-gen207.log 0.03 1
+pdr-15-70-15-gen208.log 0.01 1
+pdr-15-70-15-gen231.log 2.37 0
+pdr-15-70-15-gen234.log 0.15 0
+pdr-15-70-15-gen248.log 833.73 0
+pdr-15-70-15-gen255.log 0.07 1
+pdr-15-70-15-gen256.log 1.19 0
+pdr-15-70-15-gen257.log 0.03 1
+pdr-15-70-15-gen273.log 7200
+pdr-15-70-15-gen280.log 0.01 1
+pdr-15-70-15-gen281.log 112.47 1
+pdr-15-70-15-gen282.log 1.37 1
+pdr-15-70-15-gen289.log 67.38 0
+pdr-15-70-15-gen291.log 0.78 0
+pdr-15-70-15-gen298.log 7200
+pdr-15-70-15-gen310.log 0.03 1
+pdr-15-70-15-gen313.log 0.09 0
+pdr-15-70-15-gen316.log 7200
+pdr-15-70-15-gen323.log 0.19 1
+pdr-15-70-15-gen325.log 2.37 0
+pdr-15-70-15-gen334.log 7200
+pdr-15-70-15-gen335.log 0.04 1
+pdr-15-70-15-gen336.log 0.01 1
+pdr-15-70-15-gen337.log 0.05 0
+pdr-15-70-15-gen343.log 0.01 1
+pdr-15-70-15-gen346.log 7200
+pdr-15-70-15-gen350.log 1.96 0
+pdr-15-70-15-gen352.log 1.07 0
+pdr-15-70-15-gen353.log 0.01 1
+pdr-15-70-15-gen354.log 23.7 0
+pdr-15-70-15-gen359.log 7200
+pdr-15-70-15-gen360.log 6.07 0
+pdr-15-70-15-gen367.log 0.61 0
+pdr-15-70-15-gen369.log 0.42 0
+pdr-15-70-15-gen373.log 0.03 1
+pdr-15-70-15-gen374.log 0.19 1
+pdr-15-70-15-gen378.log 1.83 0
+pdr-15-70-15-gen385.log 0.03 1
+pdr-15-70-15-gen386.log 0.01 1
+pdr-15-70-15-gen388.log 1.46 1
+pdr-15-70-15-gen389.log 0.02 1
+pdr-15-70-15-gen390.log 1.55 0
+pdr-15-70-15-gen398.log 0.06 1
+pdr-15-70-15-gen400.log 0.02 1
+pdr-15-70-15-gen401.log 0.49 1
+pdr-15-70-15-gen405.log 15.41 0
+pdr-15-70-15-gen407.log 3.4 0
+pdr-15-70-15-gen415.log 0.02 1
+pdr-15-70-15-gen420.log 0.03 1
+pdr-15-70-15-gen421.log 7200
+pdr-15-70-15-gen425.log 0.01 1
+pdr-15-70-15-gen427.log 0.02 1
+pdr-15-70-15-gen430.log 2.1 0
+pdr-15-70-15-gen434.log 3.59 0
+pdr-15-70-15-gen436.log 2.26 0
+pdr-15-70-15-gen438.log 0.7 1
+pdr-15-70-15-gen440.log 7200
+pdr-15-70-15-gen441.log 7200
+pdr-15-70-15-gen443.log 9.08 0
+pdr-15-70-15-gen446.log 0.17 1
+pdr-15-70-15-gen450.log 0.03 0
+pdr-15-70-15-gen451.log 0.72 0
+pdr-15-70-15-gen456.log 0.65 0
+pdr-15-70-15-gen464.log 7200
+pdr-15-70-15-gen466.log 0.03 1
+pdr-15-70-15-gen470.log 0.03 1
+pdr-15-70-15-gen471.log 0.02 1
+pdr-15-70-15-gen472.log 0.03 1
+pdr-15-70-15-gen473.log 0.16 1
+pdr-15-70-15-gen474.log 1.94 0
+pdr-15-70-15-gen475.log 2.07 0
+pdr-15-70-15-gen477.log 3.48 0
+pdr-15-70-15-gen478.log 7200
+pdr-15-70-15-gen479.log 18.61 0
+pdr-15-70-15-gen482.log 0.01 1
+pdr-15-70-15-gen484.log 14 0
+pdr-15-70-15-gen486.log 7200
+pdr-15-70-15-gen487.log 0.89 0
+pdr-15-70-15-gen488.log 2.17 0
+pdr-15-70-15-gen490.log 86.15 0
+pdr-15-70-15-gen491.log 7200
+pdr-15-70-15-gen494.log 1.18 0
+pdr-15-70-15-gen499.log 0.02 1
+pdr-15-70-15-gen500.log 20.34 0
+pdr-15-70-15-gen501.log 7200
+pdr-15-70-15-gen502.log 0.92 1
+pdr-15-70-15-gen504.log 5.2 0
+pdr-15-70-15-gen505.log 0.44 0
+pdr-15-70-15-gen506.log 3.38 0
+pdr-15-70-15-gen508.log 0.67 0
+pdr-15-70-15-gen509.log 0.03 1
+pdr-15-70-15-gen510.log 0.02 1
+pdr-15-70-15-gen511.log 7200
+pdr-15-70-15-gen512.log 184.09 0
+pdr-15-70-15-gen514.log 199.76 0
+pdr-15-70-15-gen516.log 0.9 0
+pdr-15-70-15-gen517.log 2.09 0
+pdr-15-70-15-gen518.log 0.01 1
+pdr-15-70-15-gen521.log 0.02 1
+pdr-15-70-15-gen523.log 0.22 1
+pdr-20-40-40-gen305.log 0.34 0
+pdr-20-40-40-gen325.log 0.34 1
+pdr-20-40-40-gen334.log 0.01 0
+pdr-20-40-40-gen336.log 0.26 0
+pdr-20-40-40-gen338.log 7200
+pdr-20-40-40-gen342.log 0.36 1
+pdr-20-40-40-gen343.log 2.28 1
+pdr-20-40-40-gen345.log 0.32 1
+pdr-20-40-40-gen348.log 0.38 1
+pdr-20-40-40-gen351.log 4.63 1
+pdr-20-40-40-gen352.log 50.64 1
+pdr-20-40-40-gen353.log 0.69 1
+pdr-20-40-40-gen355.log 7200
+pdr-20-40-40-gen357.log 7200
+pdr-20-40-40-gen359.log 614.22 1
+pdr-20-40-40-gen360.log 30.89 1
+pdr-20-40-40-gen361.log 1.2 1
+pdr-20-40-40-gen362.log 86.36 1
+pdr-20-40-40-gen363.log 0.88 1
+pdr-20-40-40-gen366.log 0.45 1
+pdr-20-40-40-gen368.log 7200
+pdr-20-40-40-gen369.log 7200
+pdr-20-40-40-gen370.log 26.95 1
+pdr-20-40-40-gen372.log 1.49 1
+pdr-20-40-40-gen374.log 4.56 1
+pdr-20-40-40-gen382.log 18.27 1
+pdr-20-40-40-gen384.log 0.4 1
+pdr-20-40-40-gen385.log 0.07 1
+pdr-20-40-40-gen386.log 0.16 0
+pdr-20-40-40-gen387.log 7200
+pdr-20-40-40-gen388.log 0.03 0
+pdr-20-40-40-gen393.log 7200
+pdr-20-40-40-gen394.log 670.11 1
+pdr-20-40-40-gen395.log 7200
+pdr-20-40-40-gen398.log 84.9 0
+pdr-20-40-40-gen401.log 21.36 0
+pdr-20-40-40-gen404.log 4.35 1
+pdr-20-40-40-gen406.log 7200
+pdr-20-40-40-gen407.log 1297.62 0
+pdr-20-40-40-gen414.log 25.52 0
+pdr-20-40-40-gen416.log 6.22 0
+pdr-20-40-40-gen419.log 0.24 1
+pdr-20-40-40-gen420.log 0.21 1
+pdr-20-40-40-gen421.log 4.42 1
+pdr-20-40-40-gen424.log 53.71 0
+pdr-20-40-40-gen428.log 2763.18 1
+pdr-20-40-40-gen430.log 0.1 1
+pdr-20-40-40-gen431.log 7200
+pdr-20-40-40-gen435.log 7200
+pdr-20-40-40-gen436.log 122.92 1
+pdr-20-40-40-gen437.log 0.34 1
+pdr-20-40-40-gen439.log 7200
+pdr-20-40-40-gen441.log 46.37 1
+pdr-20-40-40-gen449.log 0.04 1
+pdr-20-40-40-gen450.log 1 1
+pdr-20-40-40-gen453.log 0.97 1
+pdr-20-40-40-gen454.log 0.34 1
+pdr-20-40-40-gen455.log 0.38 1
+pdr-20-40-40-gen457.log 39.73 1
+pdr-20-40-40-gen458.log 230.23 1
+pdr-20-40-40-gen459.log 7200
+pdr-20-40-40-gen461.log 7200
+pdr-20-40-40-gen462.log 1.12 1
+pdr-20-40-40-gen464.log 7.1 0
+pdr-20-40-40-gen465.log 448.38 1
+pdr-20-40-40-gen467.log 7200
+pdr-20-40-40-gen471.log 0.14 1
+pdr-20-40-40-gen473.log 5.65 1
+pdr-20-40-40-gen476.log 7200
+pdr-20-40-40-gen479.log 1613.04 0
+pdr-20-40-40-gen480.log 1.31 1
+pdr-20-40-40-gen482.log 7200
+pdr-20-40-40-gen483.log 0.16 0
+pdr-20-40-40-gen484.log 1.88 0
+pdr-20-40-40-gen485.log 7200
+pdr-20-40-40-gen486.log 7200
+pdr-20-40-40-gen489.log 0.23 1
+pdr-20-40-40-gen491.log 7200
+pdr-20-40-40-gen493.log 7200
+pdr-20-40-40-gen494.log 7200
+pdr-20-40-40-gen495.log 0.29 1
+pdr-20-40-40-gen496.log 7200
+pdr-20-40-40-gen497.log 5.08 1
+pdr-20-40-40-gen499.log 2.03 0
+pdr-20-40-40-gen503.log 0.2 1
+pdr-20-40-40-gen505.log 0.6 1
+pdr-20-40-40-gen507.log 7200
+pdr-20-40-40-gen509.log 3610.17 1
+pdr-20-40-40-gen513.log 7200
+pdr-20-40-40-gen515.log 8.35 1
+pdr-20-40-40-gen519.log 0.4 1
+pdr-20-40-40-gen520.log 7200
+pdr-20-40-40-gen522.log 1.1 1
+pdr-20-40-40-gen523.log 0.32 1
+pdr-20-40-40-gen526.log 16.47 1
+pdr-20-40-40-gen527.log 2.53 1
+pdr-20-40-40-gen528.log 1463.4 1
+pdr-20-40-40-gen529.log 0.72 1
+pdr-20-40-40-gen532.log 7200
+pdr-20-40-40-gen533.log 3.02 1
+pdr-25-50-25-gen1000.log 0.01 1
+pdr-25-50-25-gen1006.log 0.79 1
+pdr-25-50-25-gen1010.log 0.1 1
+pdr-25-50-25-gen1014.log 0.03 1
+pdr-25-50-25-gen1017.log 0.08 1
+pdr-25-50-25-gen1018.log 0.02 1
+pdr-25-50-25-gen1021.log 0.01 1
+pdr-25-50-25-gen1025.log 0.32 1
+pdr-25-50-25-gen1026.log 0.12 1
+pdr-25-50-25-gen1029.log 5.93 0
+pdr-25-50-25-gen1031.log 0.04 1
+pdr-25-50-25-gen1035.log 0.01 1
+pdr-25-50-25-gen1036.log 0.02 1
+pdr-25-50-25-gen1037.log 7200
+pdr-25-50-25-gen1040.log 138.84 0
+pdr-25-50-25-gen1041.log 387.67 0
+pdr-25-50-25-gen1046.log 1.96 0
+pdr-25-50-25-gen1049.log 7200
+pdr-25-50-25-gen1052.log 0.4 1
+pdr-25-50-25-gen1060.log 0.02 1
+pdr-25-50-25-gen1061.log 0.02 1
+pdr-25-50-25-gen1065.log 7200
+pdr-25-50-25-gen1066.log 0.02 1
+pdr-25-50-25-gen1068.log 0.21 1
+pdr-25-50-25-gen1069.log 0.01 1
+pdr-25-50-25-gen1070.log 0.03 1
+pdr-25-50-25-gen1079.log 116.77 0
+pdr-25-50-25-gen1081.log 96.03 0
+pdr-25-50-25-gen1083.log 10.14 0
+pdr-25-50-25-gen1087.log 0.14 1
+pdr-25-50-25-gen1088.log 7200
+pdr-25-50-25-gen1091.log 1.94 0
+pdr-25-50-25-gen1097.log 615.72 0
+pdr-25-50-25-gen1099.log 0.04 1
+pdr-25-50-25-gen1100.log 5.23 0
+pdr-25-50-25-gen1101.log 0.44 0
+pdr-25-50-25-gen1103.log 0.08 1
+pdr-25-50-25-gen670.log 0.03 1
+pdr-25-50-25-gen717.log 0.36 1
+pdr-25-50-25-gen746.log 0.03 1
+pdr-25-50-25-gen749.log 0.18 1
+pdr-25-50-25-gen751.log 0.04 1
+pdr-25-50-25-gen758.log 19.3 1
+pdr-25-50-25-gen762.log 6066.3 0
+pdr-25-50-25-gen763.log 7200
+pdr-25-50-25-gen768.log 0.01 1
+pdr-25-50-25-gen782.log 0.01 1
+pdr-25-50-25-gen784.log 0.01 1
+pdr-25-50-25-gen793.log 0.05 1
+pdr-25-50-25-gen794.log 8.94 1
+pdr-25-50-25-gen798.log 0.81 0
+pdr-25-50-25-gen806.log 28.62 0
+pdr-25-50-25-gen807.log 0.23 1
+pdr-25-50-25-gen812.log 7200
+pdr-25-50-25-gen816.log 0.01 1
+pdr-25-50-25-gen817.log 0.03 1
+pdr-25-50-25-gen822.log 0.13 1
+pdr-25-50-25-gen825.log 0.05 1
+pdr-25-50-25-gen826.log 29.06 0
+pdr-25-50-25-gen827.log 0.29 1
+pdr-25-50-25-gen832.log 0.03 1
+pdr-25-50-25-gen833.log 0.04 1
+pdr-25-50-25-gen837.log 7200
+pdr-25-50-25-gen838.log 0.4 1
+pdr-25-50-25-gen840.log 0.05 1
+pdr-25-50-25-gen841.log 0.16 1
+pdr-25-50-25-gen843.log 2.2 0
+pdr-25-50-25-gen858.log 0.07 1
+pdr-25-50-25-gen862.log 0.63 0
+pdr-25-50-25-gen863.log 4.89 0
+pdr-25-50-25-gen864.log 2.14 0
+pdr-25-50-25-gen870.log 2749.09 1
+pdr-25-50-25-gen878.log 164.54 1
+pdr-25-50-25-gen879.log 0.17 1
+pdr-25-50-25-gen880.log 7200
+pdr-25-50-25-gen883.log 0.04 1
+pdr-25-50-25-gen884.log 15.28 0
+pdr-25-50-25-gen894.log 7.72 0
+pdr-25-50-25-gen905.log 0.06 1
+pdr-25-50-25-gen913.log 0.01 1
+pdr-25-50-25-gen925.log 0.24 1
+pdr-25-50-25-gen926.log 0.06 1
+pdr-25-50-25-gen927.log 0.03 1
+pdr-25-50-25-gen931.log 79.51 0
+pdr-25-50-25-gen936.log 0.17 1
+pdr-25-50-25-gen939.log 7200
+pdr-25-50-25-gen946.log 0.02 1
+pdr-25-50-25-gen948.log 0.03 1
+pdr-25-50-25-gen955.log 0.1 1
+pdr-25-50-25-gen957.log 0.03 1
+pdr-25-50-25-gen962.log 2.36 0
+pdr-25-50-25-gen966.log 6.64 1
+pdr-25-50-25-gen969.log 46.33 1
+pdr-25-50-25-gen972.log 0.04 1
+pdr-25-50-25-gen975.log 0.11 1
+pdr-25-50-25-gen976.log 0.01 1
+pdr-25-50-25-gen979.log 6.57 0
+pdr-25-50-25-gen984.log 0.21 1
+pdr-25-50-25-gen989.log 0.08 1
+pdr-25-50-25-gen991.log 0.77 0
+pdr-40-40-20-gen2866.log 7200
+pdr-40-40-20-gen2944.log 22.5 0
+pdr-40-40-20-gen2958.log 0.02 1
+pdr-40-40-20-gen2988.log 0.01 1
+pdr-40-40-20-gen3020.log 0.04 1
+pdr-40-40-20-gen3055.log 0.01 1
+pdr-40-40-20-gen3104.log 0.06 1
+pdr-40-40-20-gen3123.log 0.01 0
+pdr-40-40-20-gen3135.log 6.74 0
+pdr-40-40-20-gen3145.log 7200
+pdr-40-40-20-gen3231.log 0.04 1
+pdr-40-40-20-gen3239.log 19.48 1
+pdr-40-40-20-gen3258.log 0.02 1
+pdr-40-40-20-gen3281.log 7200
+pdr-40-40-20-gen3289.log 555.82 0
+pdr-40-40-20-gen3313.log 0.01 1
+pdr-40-40-20-gen3318.log 0.01 1
+pdr-40-40-20-gen3348.log 6419.84 0
+pdr-40-40-20-gen3364.log 7200
+pdr-40-40-20-gen3381.log 44.5 0
+pdr-40-40-20-gen3401.log 0.01 1
+pdr-40-40-20-gen3415.log 0.66 1
+pdr-40-40-20-gen3455.log 5.47 1
+pdr-40-40-20-gen3470.log 0.04 1
+pdr-40-40-20-gen3471.log 7200
+pdr-40-40-20-gen3483.log 7200
+pdr-40-40-20-gen3489.log 0.05 1
+pdr-40-40-20-gen3537.log 7200
+pdr-40-40-20-gen3549.log 0.02 1
+pdr-40-40-20-gen3552.log 0.17 1
+pdr-40-40-20-gen3561.log 0.06 1
+pdr-40-40-20-gen3566.log 0.1 1
+pdr-40-40-20-gen3580.log 0.47 1
+pdr-40-40-20-gen3590.log 0.04 1
+pdr-40-40-20-gen3604.log 0.04 1
+pdr-40-40-20-gen3616.log 0.02 1
+pdr-40-40-20-gen3623.log 0.01 1
+pdr-40-40-20-gen3629.log 1.32 0
+pdr-40-40-20-gen3632.log 0.05 1
+pdr-40-40-20-gen3635.log 0.01 1
+pdr-40-40-20-gen3638.log 0.02 1
+pdr-40-40-20-gen3643.log 2.48 1
+pdr-40-40-20-gen3647.log 7200
+pdr-40-40-20-gen3648.log 0.02 1
+pdr-40-40-20-gen3650.log 89.07 0
+pdr-40-40-20-gen3658.log 0.39 1
+pdr-40-40-20-gen3660.log 896.26 1
+pdr-40-40-20-gen3662.log 0.2 1
+pdr-40-40-20-gen3665.log 420.71 1
+pdr-40-40-20-gen3670.log 0.2 1
+pdr-40-40-20-gen3672.log 0.05 1
+pdr-40-40-20-gen3685.log 0.04 1
+pdr-40-40-20-gen3686.log 0.16 1
+pdr-40-40-20-gen3691.log 7200
+pdr-40-40-20-gen3698.log 0.02 1
+pdr-40-40-20-gen3703.log 0.09 1
+pdr-40-40-20-gen3707.log 7200
+pdr-40-40-20-gen3723.log 0.01 1
+pdr-40-40-20-gen3728.log 131.95 0
+pdr-40-40-20-gen3739.log 0.08 1
+pdr-40-40-20-gen3743.log 0 0
+pdr-40-40-20-gen3746.log 7200
+pdr-40-40-20-gen3756.log 0.07 1
+pdr-40-40-20-gen3757.log 0.02 1
+pdr-40-40-20-gen3758.log 0.59 1
+pdr-40-40-20-gen3762.log 7200
+pdr-40-40-20-gen3766.log 0.14 1
+pdr-40-40-20-gen3770.log 0.12 1
+pdr-40-40-20-gen3771.log 397.2 1
+pdr-40-40-20-gen3775.log 0.3 0
+pdr-40-40-20-gen3783.log 0.89 1
+pdr-40-40-20-gen3784.log 7200
+pdr-40-40-20-gen3785.log 0.19 1
+pdr-40-40-20-gen3793.log 1.52 0
+pdr-40-40-20-gen3796.log 0.29 0
+pdr-40-40-20-gen3802.log 339.72 0
+pdr-40-40-20-gen3813.log 0.01 1
+pdr-40-40-20-gen3816.log 2.23 1
+pdr-40-40-20-gen3818.log 2.93 1
+pdr-40-40-20-gen3827.log 0.04 1
+pdr-40-40-20-gen3829.log 12.31 1
+pdr-40-40-20-gen3834.log 0.04 1
+pdr-40-40-20-gen3836.log 0.36 1
+pdr-40-40-20-gen3839.log 0.36 1
+pdr-40-40-20-gen3848.log 0.31 1
+pdr-40-40-20-gen3852.log 0.02 1
+pdr-40-40-20-gen3858.log 7200
+pdr-40-40-20-gen3860.log 7200
+pdr-40-40-20-gen3862.log 8.02 0
+pdr-40-40-20-gen3865.log 0.04 1
+pdr-40-40-20-gen3869.log 1519.26 1
+pdr-40-40-20-gen3874.log 0.02 1
+pdr-40-40-20-gen3880.log 0.48 1
+pdr-40-40-20-gen3885.log 7200
+pdr-40-40-20-gen3892.log 6644.05 1
+pdr-40-40-20-gen3895.log 0.04 1
+pdr-40-40-20-gen3902.log 0.07 0
+pdr-40-40-20-gen3903.log 7200
+pdr-40-40-20-gen3904.log 0.01 1
+pdr-40-40-20-gen3911.log 0.03 0

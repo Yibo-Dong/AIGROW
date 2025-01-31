@@ -1,0 +1,1 @@
+python3 bin/GraFuzzer_nolimit.py --re-generate=0 --input-ratio=3 --latch-ratio=24 --and-ratio=6 --target-file="aigerfile/gen$1.aag"

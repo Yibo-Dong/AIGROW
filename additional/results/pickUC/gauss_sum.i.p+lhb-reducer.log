@@ -1,0 +1,19 @@
+{
+"Result":	"unknown",
+"TransSolver called":	317790,
+"TransSolver takes":	994.784,
+"SAT Count":	2000,
+"SAT takes":	32.139,
+"UNSAT Count":	80036,
+"UNSAT takes":	344.059,
+"Proof at frame":0,
+"LiftSolver takes":	43.185,
+"InvSolver takes":	765.627,
+"StartSolver takes":	0.172,
+"Locating Level takes":	245.176,
+"Updating UC takes":	264.166,
+"Propagation takes":	376.325,
+"Initialization takes":	0.029,
+"Innards takes":	0.000,
+"Total Time spent":	3599.891
+}
